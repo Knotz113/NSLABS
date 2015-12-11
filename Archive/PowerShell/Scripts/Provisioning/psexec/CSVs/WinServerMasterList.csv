@@ -1,0 +1,1606 @@
+Name,DNS Domain,Type,Status,IP Address,D Operating System,D Host Domain
+506921-prdweb01,,Windows,In Use,192.168.103.61,,
+506937-qaapp01,,Windows,In Use,192.168.202.48,,
+506939-qaweb01,,Windows,In Use,192.168.102.49,,
+506940-prdapp01,,Windows,In Use,192.168.203.50,,
+506962-prdsql01,,Windows,In Use,192.168.203.60,,
+506965-prdsql02,,Windows,In Use,192.168.203.62,,
+506966-qasql01,,Windows,In Use,192.168.202.181,,
+506967-qasql02,,Windows,In Use,192.168.202.63,,
+awseuwappmrd01,,Windows,In Use,10.36.1.213,Windows 2008 R2,us.maritz.net
+awseuwappmrd02,us.maritz.net,Windows,In Use,10.36.1.32,Windows 2008 R2,us.maritz.net
+awseuwdcus99,,Windows,In Use,10.36.5.99,Windows 2008 R2,us.maritz.net
+awseuwftp1002,,Windows,In Use,10.36.5.19,Windows 2008 R2,us.maritz.net
+awseuwsqlmrd01,,Windows,In Use,10.36.4.189,Windows 2008 R2,us.maritz.net
+awseuwsqlmrd02,,Windows,In Use,10.36.4.154,Windows 2008 R2,us.maritz.net
+awseuwsqlmrp01,,Windows,In Use,10.36.2.122,Windows 2008 R2,us.maritz.net
+awseuwsqlmrp04,,Windows,In Use,10.36.2.115,Windows 2008 R2,us.maritz.net
+awseuwsqlmrp05,,Windows,In Use,10.36.2.29,Windows 2008 R2,us.maritz.net
+awseuwsqlmrp07,,Windows,In Use,10.36.2.233,Windows 2008 R2,us.maritz.net
+awseuwsqlmrr01,,Windows,In Use,10.36.2.141,Windows 2008 R2,us.maritz.net
+awseuwsqlmrr02,,Windows,In Use,10.36.2.216,Windows 2008 R2,us.maritz.net
+awseuwsqlmrt01,,Windows,In Use,10.36.2.151,Windows 2008 R2,us.maritz.net
+awseuwtsvr1002,,Windows,In Use,10.36.5.87,Windows 2008 R2,us.maritz.net
+awseuwwapmrd01,,Windows,In Use,10.36.4.26,Windows 2008 R2,us.maritz.net
+awseuwwapmrp01,us.maritz.net,Windows,In Use,10.36.1.173,Windows 2008 R2,us.maritz.net
+awseuwwebmrd01,,Windows,In Use,10.36.3.62,Windows 2008 R2,us.maritz.net
+awseuwwebmrp01,,Windows,In Use,10.36.0.156,Windows 2008 R2,
+awseuwwebmrp02,,Windows,In Use,10.36.0.176,Windows 2008 R2,
+awseuwwebmrp03,,Windows,In Use,10.36.0.79,Windows 2008 R2,
+awseuwwebmrs01,,Windows,In Use,10.36.0.171,Windows 2008 R2,
+awsusedcus99,,Windows,In Use,10.34.5.99,Windows 2008 R2,us.maritz.net
+awsuseftp1001,,Windows,In Use,10.34.5.7,Windows 2008 R2,us.maritz.net
+awsusemmsqld010,,Windows,In Use,10.34.71.252,,
+awsusemmsqli010,,Windows,In Use,10.34.72.138,,
+awsusemmsqlp010,,Windows,In Use,10.34.76.221,,
+awsusemmsqlq010,,Windows,In Use,10.34.74.252,,
+awsusemmsqlu010,,Windows,In Use,10.34.75.17,,
+awsusesqlmrd01,,Windows,In Use,10.34.4.113,Windows 2008 R2,us.maritz.net
+awsusesqlmrd03,,Windows,In Use,10.34.4.91,Windows 2008 R2,us.maritz.net
+awsusesqlmrp01,,Windows,In Use,10.34.2.220,Windows 2008 R2,us.maritz.net
+awsusesqlmrp02,,Windows,In Use,10.34.2.221,Windows 2008 R2,us.maritz.net
+awsusesqlmrp04,,Windows,In Use,10.34.2.164,Windows 2008 R2,us.maritz.net
+awsusesqlmrp05,,Windows,In Use,10.34.2.217,Windows 2008 R2,us.maritz.net
+awsusesqlmrp06,,Windows,In Use,10.34.2.18,Windows 2008 R2,us.maritz.net
+awsusetsvr1002,,Windows,In Use,10.34.5.45,Windows 2008 R2,us.maritz.net
+awsusewapmrd01,,Windows,In Use,10.34.4.197,Windows 2008 R2,us.maritz.net
+awsusewapmrp01,,Windows,In Use,10.34.1.21,Windows 2008 R2,us.maritz.net
+awsusewebmrd02,,Windows,In Use,10.34.3.171,Windows 2008 R2,us.maritz.net
+awsusewebmrd03,,Windows,In Use,10.34.3.42,Windows 2008 R2,us.maritz.net
+awsusewebmrd04,,Windows,In Use,10.34.3.5,Windows 2008 R2,us.maritz.net
+awsusewebmrd05,,Windows,In Use,10.34.3.147,Windows 2008 R2,us.maritz.net
+awsusewebmrp01,,Windows,In Use,10.34.0.219,Windows 2008 R2,
+awsusewebmrp03,,Windows,In Use,10.34.0.126,Windows 2008 R2,
+awsusewebmrp06,,Windows,In Use,10.34.0.63,Windows 2008 R2,
+awsusewebmrs01,,Windows,In Use,10.34.0.254,Windows 2008 R2,
+awsusewebmrs02,,Windows,In Use,10.34.0.84,Windows 2008 R2,
+awsusewebmrs03,,Windows,In Use,10.34.0.15,Windows 2008 R2,
+awsusewebmrs05,,Windows,In Use,10.34.0.118,Windows 2008 R2,
+AZUSCOMMITP001,,Windows,Build/Rebuild,10.44.128.4,,
+chi010offc01,,Windows,In Use,10.30.7.137,Windows 2008 R2,us.maritz.net
+dns1,,Windows,In Use,192.168.20.14,Windows 2008 R2,WORKGROUP
+dns2,,Windows,In Use,192.168.20.140,Windows 2008 R2,WORKGROUP
+dns3,,Windows,In Use,192.168.194.14,,
+EA-Lab1,,Windows,To Be Disposed - AM,,,
+EA-Lab2,,Windows,Decommissioned,,,
+EA-Lab3,,Windows,To Be Disposed - AM,,,
+EA-Lab4,,Windows,To Be Disposed - AM,,,
+edi001offc05,,Windows,In Use,10.30.5.155,,
+fenappaltp02,,Windows,In Use,10.10.107.21,Windows 2003,us.maritz.net
+fenappavp01,,Windows,In Use,156.45.55.26,Windows 2008 R2,us.maritz.net
+fenappccad801v,us.maritz.net,Windows,In Use,156.45.66.85,Windows Server 2012 R2 Standard R2,us.maritz.net
+fenappccap01,,Windows,In Use,172.17.1.24,Windows Server 2012 R2 Standard R2,mpn.local
+fenappccap02,,Windows,In Use,172.17.1.19,Windows Server 2012 R2 Standard R2,mpn.local
+fenappccat801v,,Windows,In Use,172.18.2.22,Windows Server 2012 R2 Standard R2,us.maritz.net
+fenappccd02,,Windows,In Use,172.17.5.46,Windows 2008 R2,mpn.local
+fenappccp02,,Windows,In Use,172.17.5.27,Windows 2008 R2,mpn.local
+fenappcenp01,,Windows,In Use,10.99.13.241,Windows Server 2012 R2 Standard R2,mpn.local
+fenappcenp02,,Windows,In Use,192.168.238.214,Windows Server 2012 R2 Standard R2,mpni.local
+fenappcenp03,,Windows,In Use,156.45.59.125,Windows Server 2012 R2 Standard R2,mnete.local
+fenappcenp04,,Windows,Build/Rebuild,156.45.65.67,Windows Server 2012 R2 Standard R2,us.maritz.net
+fenappcsmt01,,Windows,In Use,172.18.2.19,Windows 2008 R2,us.maritz.net
+fenappdev01,,Windows,In Use,156.45.55.136,Windows 2003,us.maritz.net
+fenappdial03,,Windows,Build/Rebuild,10.91.6.29,Windows 2003 R2,us.maritz.net
+fenappdial04,,Windows,In Use,10.91.6.24,Windows 2003 R2,us.maritz.net
+fenappditbd501v,,Windows,In Use,156.45.55.103,Windows 2003,us.maritz.net
+fenappditbt501v,,Windows,In Use,156.45.55.104,Windows 2003,us.maritz.net
+fenappdlpp01,,Windows,In Use,172.19.7.41,Windows 2008 R2,us.maritz.net
+fenappdlpp02,,Windows,In Use,172.19.7.31,Windows 2008 R2,us.maritz.net
+fenappdlpp03,,Windows,In Use,172.19.7.32,Windows 2008 R2,us.maritz.net
+fenappdlpp04,,Windows,In Use,172.19.7.33,Windows 2008 R2,us.maritz.net
+fenappdlpp06,,Windows,In Use,172.19.7.28,Windows 2008 R2,us.maritz.net
+fenappdlpp07,,Windows,In Use,172.19.7.29,Windows 2008 R2,us.maritz.net
+fenappedp02,,Windows,In Use,156.45.55.119,Windows 2003,us.maritz.net
+fenappedp03,,Windows,In Use,156.45.55.116,Windows 2003,us.maritz.net
+fenappedp06,,Windows,In Use,156.45.54.44,Windows 2003,us.maritz.net
+fenappedp07,,Windows,In Use,156.45.54.65,Windows 2008 R2,us.maritz.net
+fenappedp08,,Windows,In Use,10.99.13.29,Windows 2008 R2,mpn.local
+fenappekmp02,,Windows,In Use,10.2.1.56,Windows Server 2012 Standard,us.maritz.net
+fenappepop02,,Windows,In Use,156.45.50.81,Windows 2003,us.maritz.net
+fenappepop03,,Windows,In Use,156.45.50.159,Windows Server 2012 Standard,us.maritz.net
+fenappfind01,,Windows,In Use,172.19.15.25,Windows 2008 R2,us.maritz.net
+fenappfind01-old,,Windows,De-Installed,172.19.15.25,Windows 2008 R2,us.maritz.net
+fenappfind02,,Windows,De-Installed,172.19.15.26,Windows 2003 R2,us.maritz.net
+fenappfind04,,Windows,In Use,172.19.15.28,Windows 2008 R2,us.maritz.net
+fenappfinp02,us.maritz.net,Windows,In Use,172.19.15.20,Windows 2003 R2,
+fenappfinp02-old,,Windows,De-Installed,172.19.15.20,Windows 2003 R2,us.maritz.net
+fenappfinp03,,Windows,In Use,172.19.15.24,Windows 2008 R2,us.maritz.net
+fenappfinp04,,Windows,In Use,156.45.55.113,Windows 2008 R2,us.maritz.net
+fenappfinp05,,Windows,In Use,172.19.15.21,Windows 2008 R2,us.maritz.net
+fenappgateway01,,Windows,In Use,172.19.23.27,Windows Server 2012 R2 Standard R2,us.maritz.net
+fenappiexp01,,Windows,In Use,172.18.6.11,Windows 2008 R2,us.maritz.net
+fenapplawp01,,Windows,In Use,156.45.50.72,Windows 2003,us.maritz.net
+fenappmgd02,,Windows,Installed,156.45.66.58,Windows 2008 R2,us.maritz.net
+fenappmgp01,,Windows,In Use,172.19.7.30,Windows 2008 R2,us.maritz.net
+fenappmgp03,,Windows,In Use,172.19.1.249,,
+fenappmgp04,,Windows,In Use,156.45.69.249,Windows 2008 R2,mpne.local
+fenappmgp05,,Windows,In Use,172.19.13.249,Windows 2008 R2,mneti.local
+fenappmgp06,,Windows,In Use,156.45.59.119,Windows 2008 R2,mnete.local
+fenappmgp07,,Windows,In Use,156.45.55.249,Windows 2008 R2,us.maritz.net
+fenappmgp08,,Windows,In Use,10.99.13.249,Windows 2008 R2,mpn.local
+fenappmgp09,,Windows,In Use,192.168.239.249,Windows 2008 R2,mpni.local
+fenappmgp10,,Appliance,In Use,156.45.54.40,,
+fenappmgp11,,Windows,Installed,172.19.8.61,Windows Server 2012 Standard,us.maritz.net
+fenappmgp12,,Windows,Installed,172.19.8.62,Windows Server 2012 Standard,us.maritz.net
+fenappmgp13,,Windows,In Use,172.19.8.63,Windows Server 2012 Standard,us.maritz.net
+fenappmgp14,,Windows,In Use,156.45.55.121,Windows 2008 R2,us.maritz.net
+fenappmgp16,,Windows,In Use,172.19.8.35,Windows Server 2012 R2 Standard R2,us.maritz.net
+fenappmgp17,,Windows,In Use,172.19.8.42,Windows Server 2012 R2 Standard R2,us.maritz.net
+fenappmgp18,,Windows,In Use,156.45.55.20,Windows 2008 R2,us.maritz.net
+fenappmgp19,,Windows,Installed,156.45.55.127,Windows 2008 R2,us.maritz.net
+fenappmgp20,,Windows,In Use,156.45.55.241,Windows Server 2012 R2 Standard R2,us.maritz.net
+fenappmgp21,,Windows,In Use,172.19.13.241,,
+fenappmgts01,,Windows,In Use,156.45.50.69,Windows 2003,us.maritz.net
+fenappmgtsp01,,Windows,In Use,156.45.50.142,Windows 2008 R2,us.maritz.net
+fenappmgtsp06,,Windows,In Use,156.45.50.39,Windows 2008 R2,us.maritz.net
+fenappmgtsp801v,,Windows,In Use,156.45.55.201,Windows 2003,us.maritz.net
+fenappmlmp02,,Windows,In Use,156.45.50.99,Windows 2003,us.maritz.net
+fenappmlmp04,,Windows,Installed,172.17.3.133,Windows Server 2012 R2 Standard R2,mpn.local
+fenappmlms02,,Windows,In Use,172.18.2.91,Windows Server 2012 R2 Standard R2,us.maritz.net
+fenappmlp02,,Windows,In Use,156.45.54.194,Windows 2003,us.maritz.net
+fenappmmd02,,Windows,In Use,156.45.66.13,Windows 2003,us.maritz.net
+fenappmmd03,,Windows,Build/Rebuild,156.45.66.63,Windows Server 2012 R2 Standard R2,us.maritz.net
+fenappmmp01,,Windows,In Use,156.45.55.46,Windows 2003,us.maritz.net
+fenappmmp02,,Windows,In Use,156.45.54.13,Windows 2003,us.maritz.net
+fenappmmp03,,Windows,In Use,156.45.69.35,Windows 2008 R2,mpne.local
+fenappmmp04,,Windows,Build/Rebuild,156.45.66.68,,
+fenappmpcd03,,Windows,To Be Disposed - AM,156.45.66.68,Windows 2003,us.maritz.net
+fenappmrp01,,Windows,In Use,156.45.54.179,Windows 2003,us.maritz.net
+fenappmrp03,,Windows,In Use,10.255.77.51,Windows 2008 R2,us.maritz.net
+fenappmrp04,,Windows,In Use,156.45.59.72,Windows 2008 R2,mnete.local
+fenappmrp05,,Windows,In Use,172.19.23.83,Windows 2008 R2,us.maritz.net
+fenappmrp06,,Windows,In Use,172.19.23.84,Windows 2008 R2,us.maritz.net
+fenappmrp07,,Windows,Build/Rebuild,156.45.54.182,Windows Server 2012 R2 Standard R2,us.maritz.net
+fenappmrp801v,,Windows,In Use,156.45.55.185,Windows 2003,us.maritz.net
+fenappmsapvp03,,Windows,In Use,156.45.55.145,Windows 2008 R2,us.maritz.net
+fenappmsapvp04,,Windows,In Use,156.45.55.134,Windows 2008 R2,us.maritz.net
+fenappmsapvs01,,Windows,In Use,156.45.55.202,Windows 2008 R2,us.maritz.net
+fenappmskmsp01,,Windows,In Use,156.45.65.85,Windows 2008 R2,us.maritz.net
+fenappnicep01,,Windows,In Use,172.18.6.62,Windows 2003 R2,us.maritz.net
+fenappnicep02,,Windows,In Use,172.18.6.63,Windows 2003 R2,us.maritz.net
+fenappnicep03,,Windows,In Use,172.18.6.64,Windows 2008 R2,us.maritz.net
+fenappnicep04,,Windows,In Use,172.18.6.65,Windows 2008 R2,us.maritz.net
+fenappnmsp01,,Windows,In Use,172.19.7.35,Windows 2008 R2,us.maritz.net
+fenappnmsp02,,Windows,In Use,156.45.55.6,Windows 2008 R2,us.maritz.net
+fenappnmsp03,,Windows,In Use,172.19.7.38,Windows 2008 R2,us.maritz.net
+fenappnmsp04,,Windows,In Use,156.45.55.25,Windows Server 2012 R2 Standard R2,us.maritz.net
+fenappnoc04,,Windows,In Use,156.45.55.39,Windows 2008 R2,us.maritz.net
+fenappowap01,,Windows,In Use,156.45.50.102,Windows 2003,us.maritz.net
+fenapppold01,,Windows,Installed,156.45.66.217,Windows Server 2012 R2 Standard R2,us.maritz.net
+fenapppolp01,,Windows,Installed,156.45.55.28,Windows Server 2012 R2 Standard R2,us.maritz.net
+fenapppols01,,Windows,Installed,156.45.66.218,Windows Server 2012 R2 Standard R2,us.maritz.net
+fenappprn03,,Windows,In Use,156.45.55.97,Windows 2003,us.maritz.net
+fenappsccmp01,,Windows,In Use,156.45.54.190,Windows 2008 R2,us.maritz.net
+fenappsccmp02,,Windows,In Use,156.45.54.192,Windows 2008 R2,us.maritz.net
+fenappsccmp03,,Windows,In Use,156.45.54.193,Windows 2008 R2,us.maritz.net
+fenappsccmp04,,Windows,In Use,156.45.54.72,Windows 2008 R2,us.maritz.net
+fenappsccmp05,,Windows,In Use,156.45.54.38,Windows Server 2012 R2 Standard R2,us.maritz.net
+fenappsccmp06,,Windows,In Use,156.45.54.61,Windows Server 2012 R2 Standard R2,us.maritz.net
+fenappsccmp07,,Windows,In Use,156.45.54.37,Windows Server 2012 R2 Standard R2,us.maritz.net
+fenappsccmp08,,Windows,Installed,156.45.54.34,Windows Server 2012 R2 Standard R2,us.maritz.net
+fenappscomp01,,Windows,In Use,172.19.1.30,,
+fenappsecp03,,Windows,In Use,156.45.55.188,Windows 2003,us.maritz.net
+fenappsecp08,,Windows,Decommissioned,156.45.54.21,Windows 2008 R2,us.maritz.net
+fenappsecp09,,Windows,In Use,156.45.54.29,Windows Server 2012 R2 Standard R2,us.maritz.net
+fenappsepp01,,Windows,In Use,156.45.54.141,Windows 2003,us.maritz.net
+fenappsim02,,Windows,In Use,156.45.55.61,Windows 2008 R2,us.maritz.net
+fenappsim02-old,,Windows,De-Installed,156.45.55.70,Windows 2003,us.maritz.net
+fenappsnsenvp01,,Windows,In Use,172.19.8.15,Windows 2008 R2,us.maritz.net
+fenappsnsenvp02,,Windows,In Use,172.19.8.16,Windows 2008 R2,us.maritz.net
+fenappsnsmgmp01,,Windows,In Use,172.19.8.17,Windows 2008 R2,us.maritz.net
+fenappsnsmgmp02,,Windows,In Use,172.19.8.18,Windows 2008 R2,us.maritz.net
+fenappssp1002v,,Windows,Build/Rebuild,10.99.13.106,Windows Server 2012 R2 Standard R2,mpn.local
+fenappstg02,,Windows,In Use,156.45.54.91,Windows Server 2012 R2 Standard R2,us.maritz.net
+fenappsvnd01,,Windows,In Use,156.45.66.101,Windows 2008 R2,us.maritz.net
+fenappsvnp02,,Windows,In Use,156.45.66.106,Windows 2008 R2,us.maritz.net
+fenappsynp01,,Windows,In Use,156.45.54.132,Windows 2003,us.maritz.net
+fenappsynp02,,Windows,Build/Rebuild,156.45.54.26,Windows Server 2012 R2 Standard R2,us.maritz.net
+fenapptest01,,Windows,Installed,,,
+fenapptramsp02,,Windows,In Use,156.45.55.107,Windows 2008 R2,us.maritz.net
+fenappvcp03,,Windows,In Use,172.18.7.104,Windows Server 2012 R2 Standard R2,us.maritz.net
+fenappvsrp01,,Windows,In Use,172.18.7.199,Windows Server 2012 R2 Standard R2,us.maritz.net
+fenbes05,,Windows,Installed,156.45.53.57,Windows 2008 R2,us.maritz.net
+fenbkup01,,Windows,In Use,156.45.54.231,Windows 2008 R2,us.maritz.net
+fenbkup02,,Windows,In Use,156.45.55.114,Windows 2008 R2,us.maritz.net
+fenbkup03,,Windows,In Use,156.45.54.175,Windows 2008 R2,us.maritz.net
+fenbkup04,,Windows,In Use,156.45.55.208,Windows 2008 R2,us.maritz.net
+fenbkup04-old,,Windows,De-Installed,156.45.55.208,Windows 2003,us.maritz.net
+fenbkup05,,Windows,In Use,10.99.13.26,Windows 2008 R2,mpn.local
+fenbkup10,,Windows,In Use,192.168.10.20,Windows 2008 R2,mneti.local
+fenbkup20,,Windows,In Use,156.45.55.66,Windows 2008 R2,us.maritz.net
+fenclsr1901,,Windows,To Be Disposed - AM,192.168.32.91,Windows 2003,csd.maritzcs
+fenclsr1902,,Windows,Decommissioned,192.168.32.92,Windows 2003,csd.maritzcs
+fenclsr2601,,Windows,In Use,156.45.50.54,Windows 2003,us.maritz.net
+fenclsr2602,,Windows,In Use,156.45.50.55,Windows 2003,us.maritz.net
+fenclsr2701,,Windows,In Use,156.45.50.132,Windows 2003,us.maritz.net
+fenclsr2702,,Windows,In Use,156.45.50.12,Windows 2003,us.maritz.net
+fenclsr2801,,Windows,In Use,156.45.50.227,Windows 2003,us.maritz.net
+fenclsr2802,,Windows,In Use,156.45.50.228,Windows 2003,us.maritz.net
+fenclsr3301,,Windows,In Use,172.19.22.21,Windows 2008 R2,us.maritz.net
+fenclsr3302,,Windows,In Use,172.19.22.22,Windows 2008 R2,us.maritz.net
+fendccsw601v,,Windows,In Use,192.168.30.51,Windows 2003,csw.maritzcs
+fendccsw701v,,Windows,In Use,192.168.30.52,Windows 2003,csw.maritzcs
+fendcmnete01,,Windows,In Use,156.45.59.121,Windows 2008 R2,mnete.local
+fendcmnete02,,Windows,In Use,156.45.59.122,Windows 2008 R2,mnete.local
+fendcmneti01,,Windows,In Use,172.19.13.251,Windows 2008 R2,mneti.local
+fendcmneti02,,Windows,In Use,172.19.13.252,Windows 2008 R2,mneti.local
+fendcmpn01,,Windows,In Use,10.99.13.251,Windows 2008 R2,mpn.local
+fendcmpn02,,Windows,In Use,10.99.13.252,Windows 2008 R2,mpn.local
+fendcmpne01,,Windows,In Use,156.45.69.251,Windows 2008 R2,mpne.local
+fendcmpne02,,Windows,In Use,156.45.69.252,Windows 2008 R2,mpne.local
+fendcmpni01,,Windows,In Use,192.168.238.251,Windows 2008 R2,mpni.local
+fendcmpni02,,Windows,In Use,192.168.238.252,Windows 2008 R2,mpni.local
+fendcrt01,,Windows,In Use,156.45.65.12,Windows 2008 R2,maritz.net
+fendcrt02,,Windows,In Use,156.45.65.13,Windows 2008 R2,maritz.net
+fendcrt03,,Windows,In Use,156.45.65.58,Windows 2008 R2,maritz.net
+FENDCRT04,,Windows,Installed,,,
+fendcrt21,,Windows,In Use,172.19.1.41,,
+fendcus01,,Windows,In Use,156.45.65.61,Windows 2008 R2,us.maritz.net
+fendcus02,,Windows,In Use,156.45.65.59,Windows 2008 R2,us.maritz.net
+fendcus03,,Windows,In Use,156.45.65.60,Windows 2008 R2,us.maritz.net
+fendcus13,,Windows,In Use,156.45.56.17,Windows 2008 R2,us.maritz.net
+fendcus14,,Windows,In Use,156.45.56.18,Windows 2008 R2,us.maritz.net
+fendcus21,,Windows,In Use,172.19.1.21,Windows 2008 R2,us.maritz.net
+fendcus22,,Windows,In Use,172.19.1.22,Windows 2008 R2,us.maritz.net
+fendcus23,,Windows,In Use,172.19.1.23,Windows 2008 R2,us.maritz.net
+fendhcp01,,Windows,Decommissioned,156.45.65.56,Windows 2003,us.maritz.net
+fendhcp02,,Windows,In Use,156.45.65.56,Windows Server 2012 R2 Standard R2,us.maritz.net
+fenexch05,,Windows,In Use,156.45.53.31,Windows 2008 R2,us.maritz.net
+fenexch06,,Windows,In Use,156.45.53.30,Windows Server 2012 R2 Standard R2,us.maritz.net
+fenexch07,,Windows,In Use,156.45.53.43,Windows Server 2012 R2 Standard R2,us.maritz.net
+fenexch08,,Windows,In Use,156.45.53.45,Windows 2008 R2,us.maritz.net
+fenexch11,,Windows,In Use,156.45.53.70,Windows 2008 R2,us.maritz.net
+fenexch12,,Windows,Decommissioned,156.45.53.71,Windows 2008 R2,us.maritz.net
+fenexch13,,Windows,In Use,156.45.53.72,Windows 2008 R2,us.maritz.net
+FENEXCH1601C,,Windows,De-Installed,156.45.53.17,,
+FENEXCH1602C,,Windows,De-Installed,156.45.53.18,,
+FENEXCH1603C,,Windows,De-Installed,156.45.53.19,,
+fenftp07,,Windows,In Use,192.168.11.32,Windows 2003,mneti.local
+fenftp08,,Windows,In Use,192.168.11.31,Windows 2003,mneti.local
+fenftp10,maritz.com,Windows,In Use,156.45.50.249,Windows 2003,us.maritz.net
+fenftp1008,,Windows,In Use,172.19.2.253,Windows 2003,us.maritz.net
+fenftp1009,,Windows,In Use,172.19.18.253,Windows 2008 R2,us.maritz.net
+fenftp1010,,Windows,In Use,172.19.22.253,Windows 2008 R2,us.maritz.net
+fenftp1012,,Windows,In Use,172.19.17.253,Windows 2008 R2,us.maritz.net
+fenftp1013,,Windows,In Use,172.19.23.253,Windows 2008 R2,us.maritz.net
+fenftp1014,,Windows,In Use,156.45.50.90,Windows 2008 R2,us.maritz.net
+fenftp1015,,Windows,In Use,172.19.8.253,Windows 2008 R2,us.maritz.net
+fenftp1016,,Windows,In Use,172.19.20.253,Windows 2008 R2,us.maritz.net
+fenftp1017,,Windows,In Use,172.19.15.253,Windows 2008 R2,us.maritz.net
+fenftp1018,,Windows,In Use,172.19.5.248,Windows Server 2012 Standard,us.maritz.net
+fenftp1019,,Windows,In Use,172.17.5.248,Windows Server 2012 R2 Standard R2,mpn.local
+FENFTP1020,,Windows,Build/Rebuild,172.18.2.245,,
+fenftp1021,,Windows,Build/Rebuild,172.18.1.254,,
+fenftp1022,,Windows,Build/Rebuild,172.18.6.254,Windows Server 2012 R2 Standard R2,us.maritz.net
+fenftp1026,,Windows,Build/Rebuild,172.19.2.252,,
+fenftp1027,,Windows,In Use,172.19.6.248,Windows Server 2012 R2 Standard R2,us.maritz.net
+fenftp1028,,Windows,In Use,172.17.3.233,Windows Server 2012 R2 Standard R2,mpn.local
+fenftp1029,,Windows,In Use,172.17.2.248,Windows Server 2012 R2 Standard R2,mpn.local
+fenftp12,,Windows,In Use,192.168.21.28,Windows 2003,mneti.local
+fenftp13,,Windows,Decommissioned,156.45.59.38,Windows 2003,mnete.local
+fenftp15,,Windows,In Use,192.168.238.32,Windows 2008 R2,mpni.local
+fenftp17,,Windows,Installed,192.168.11.33,,
+fenftp18,,Windows,Installed,192.168.11.35,Windows Server 2012 R2 Standard R2,mneti.local
+fenftp20,,Windows,Build/Rebuild,156.45.50.110,,
+fenftp22,,Windows,Build/Rebuild,192.168.21.33,,
+fenftp23,,Windows,In Use,156.45.59.24,Windows Server 2012 R2 Standard R2,mnete.local
+fenftp801v,,Windows,In Use,172.18.6.253,Windows 2003,us.maritz.net
+fenftp802v,,Windows,In Use,172.18.1.253,Windows 2003,us.maritz.net
+fenftp803,,Windows,In Use,172.18.2.253,Windows 2003,us.maritz.net
+FENHDPITD01,,Windows,Installed,156.45.66.152,,
+FENHDPITD02,,Windows,Installed,156.45.66.153,,
+FENIDSLOG02,,Windows,In Use,156.45.54.137,,
+fenitrdsp01,,Windows,In Use,10.99.13.35,Windows Server 2012 R2 Standard R2,mpn.local
+fenitrdsp02,,Windows,In Use,156.45.50.240,Windows Server 2012 R2 Standard R2,us.maritz.net
+fenitrdsp03,,Windows,Installed,172.17.3.240,Windows Server 2012 R2 Standard R2,mpn.local
+fenitrdsp04,,Windows,Build/Rebuild,172.18.2.240,Windows Server 2012 R2 Standard R2,us.maritz.net
+fenitrdsp05,,Windows,In Use,172.17.2.240,Windows Server 2012 R2 Standard R2,mpn.local
+fenitrdsp06,,VMware,Build/Rebuild,156.45.69.240,,
+fenitrdsp07,,Windows,In Use,192.168.238.249,Windows Server 2012 R2 Standard R2,mpni.local
+fenlcs04,,Windows,In Use,156.45.53.32,Windows 2008 R2,us.maritz.net
+fenlcs05,,Windows,In Use,192.168.21.17,Windows 2008 R2,mneti.local
+FENMSG06,,Appliance,In Use,156.45.53.35,,
+FENMSG07,,Appliance,In Use,156.45.53.36,,
+fenmsg08,,Windows,In Use,156.45.53.56,Windows Server 2012 R2 Standard R2,us.maritz.net
+fenmsg98,,Windows,In Use,156.45.53.24,Windows 2008 R2,maritz.net
+fenmsg99,,Windows,Installed,156.45.53.59,Windows 2008 R2,us.maritz.net
+fenmsgiac01,,Windows,Installed,156.45.53.90,Windows 2008 R2,us.maritz.net
+fenmta20,,Windows,De-Installed,156.45.53.120,,
+fenmta21,,Windows,De-Installed,156.45.53.121,,
+fenmta29,,Windows,In Use,156.45.53.11,Windows 2008 R2,us.maritz.net
+fenmta32,,Windows,Decommissioned,,Windows 2008 R2,us.maritz.net
+fenoffc301,,Windows,In Use,156.45.54.45,Windows Server 2012 R2 Standard R2,us.maritz.net
+fenoffc302,,Windows,In Use,156.45.54.53,Windows Server 2012 R2 Standard R2,us.maritz.net
+fenowa05,,Windows,De-Installed,156.45.53.47,,
+fenpoly210,,Windows,To Be Disposed - AM,,Windows 2003,us.maritz.net
+fenpoly802,,Windows,To Be Disposed - AM,,Windows 2003,us.maritz.net
+fenprnt001,,Windows,In Use,156.45.54.19,Windows Server 2012 R2 Standard R2,us.maritz.net
+fenprnt002,,Windows,In Use,156.45.54.25,,
+fenprnt003,,Windows,In Use,156.45.54.64,Windows Server 2012 Standard,us.maritz.net
+fenprnt004,,Windows,In Use,156.45.54.84,Windows Server 2012 Standard,us.maritz.net
+fenrdslcnsp01,,Windows,In Use,172.19.21.31,Windows 2008 R2,us.maritz.net
+fenrdslcnsp02,,Windows,In Use,10.99.13.33,Windows 2008 R2,mpn.local
+fenrdslcnsp03,,Windows,In Use,156.45.82.17,Windows 2008 R2,us.maritz.net
+Fenrdsmgmtp01,,Windows,In Use,156.45.52.137,,
+fenris04,,Windows,In Use,156.45.65.70,Windows 2003,us.maritz.net
+fenrptmgp03,,Windows,In Use,192.168.11.241,Windows 2008 R2,mneti.local
+fenrptmlmp03,,Windows,Build/Rebuild,192.168.11.244,Windows 2003,mneti.local
+fensanmgmt06,,Windows,Build/Rebuild,10.255.113.41,Windows 2003,us.maritz.net
+fensanmgmt07,,Windows,In Use,10.2.1.69,Windows 2008 R2,us.maritz.net
+fensanmgmt08,,Windows,In Use,10.2.1.73,Windows 2008 R2,us.maritz.net
+fensanmgmt09,,Windows,In Use,10.2.1.22,Windows 2008 R2,us.maritz.net
+fensanmgmt10,,Windows,In Use,10.2.1.68,Windows 2008 R2,us.maritz.net
+fensanmgmt11,,Windows,In Use,10.2.1.80,Windows 2008 R2,us.maritz.net
+fensqladmd01,,Windows,In Use,156.45.50.86,Windows 2008 R2,us.maritz.net
+fensqladmd02,,Windows,Installed,156.45.50.51,Windows Server 2012 R2 Standard R2,us.maritz.net
+fensqladmp01,,Windows,In Use,172.19.5.17,Windows 2008 R2,us.maritz.net
+fensqladmp02,,Windows,Build/Rebuild,172.19.5.20,Windows Server 2012 R2 Standard R2,us.maritz.net
+fensqlcsid02,,Windows,In Use,172.19.2.18,Windows 2008 R2,us.maritz.net
+fensqlcsip01,,Windows,In Use,172.19.6.53,Windows 2008 R2,us.maritz.net
+fensqlcsip02,,Windows,In Use,172.19.6.35,Windows Server 2012 R2 Standard R2,us.maritz.net
+fensqlcsip03,us.maritz.net,Windows,In Use,172.19.6.41,Windows Server 2012 R2 Standard R2,us.maritz.net
+fensqlcsis02,,Windows,In Use,172.19.2.19,Windows 2008 R2,us.maritz.net
+fensqlmcp02,,Windows,In Use,172.19.5.16,Windows 2008 R2,us.maritz.net
+fensqlmcp03,,Windows,In Use,172.19.5.27,Windows 2008 R2,us.maritz.net
+fensqlmcp04,,Windows,In Use,172.19.5.36,Windows 2008 R2,us.maritz.net
+fensqlmcp05,,Windows,In Use,172.19.6.12,Windows 2008 R2,us.maritz.net
+fensqlmcp06,,Windows,In Use,172.19.6.99,Windows 2008 R2,us.maritz.net
+fensqlmcp08,,Windows,In Use,172.19.6.121,Windows 2008 R2,us.maritz.net
+fensqlmcp09,,Windows,In Use,172.19.6.122,Windows 2008 R2,us.maritz.net
+fensqlmcp10,,Windows,In Use,172.19.5.64,Windows 2008 R2,us.maritz.net
+fensqlmcp11,,Windows,In Use,172.19.5.37,Windows 2008 R2,us.maritz.net
+fensqlmcp12,,Windows,In Use,172.19.5.31,Windows 2008 R2,us.maritz.net
+FENSQLMCP2601C,,Windows,In Use,156.45.50.15,,
+FENSQLMCP2701C,,Windows,In Use,156.45.50.22,,
+FENSQLMCP2702C,,Windows,In Use,156.45.50.13,,
+FENSQLMCP2801C,,Windows,In Use,156.45.50.148,,
+FENSQLMCP2802C,,Windows,In Use,156.45.50.149,,
+fensqlmcs01,,Windows,To Be Disposed - AM,192.168.32.61,Windows 2003,csd.maritzcs
+fensqlmcs02,,Windows,In Use,172.19.6.47,Windows 2008 R2,us.maritz.net
+fensqlmcs03,,Windows,In Use,172.19.5.18,Windows 2008 R2,us.maritz.net
+fensqlmcs05,,Windows,In Use,172.19.6.95,Windows 2008 R2,us.maritz.net
+fensqlmcs06,,Windows,In Use,172.19.6.125,Windows 2008 R2,us.maritz.net
+fensqlmcs07,,Windows,In Use,172.19.6.126,Windows 2008 R2,us.maritz.net
+fensqlmeid06,,Windows,In Use,156.45.54.94,Windows 2008 R2,us.maritz.net
+fensqlmeip01,,Windows,In Use,156.45.55.73,Windows 2003,us.maritz.net
+fensqlmeip02,,Windows,In Use,172.17.2.30,Windows 2008 R2,mpn.local
+Fensqlmeip03,,Windows,Decommissioned,,,
+fensqlmeip3301c,,Windows,In Use,172.19.22.24,,
+fensqlmeip3302c,,Windows,In Use,172.19.22.25,,
+fensqlmeit02,,Windows,In Use,172.19.22.20,Windows 2008 R2,us.maritz.net
+fensqlmgd02,,Windows,In Use,172.19.23.36,Windows Server 2012 Standard,us.maritz.net
+fensqlmgd03,,Windows,In Use,172.19.2.41,Windows 2008 R2,us.maritz.net
+fensqlmgd05,,Windows,Build/Rebuild,172.19.2.60,Windows Server 2012 R2 Standard R2,us.maritz.net
+fensqlmgd06,,Windows,In Use,172.19.2.39,Windows Server 2012 R2 Standard R2,us.maritz.net
+fensqlmgd07,,Windows,In Use,172.19.2.53,Windows Server 2012 R2 Standard R2,us.maritz.net
+fensqlmgd08,,Windows,In Use,172.19.2.55,Windows Server 2012 R2 Standard R2,us.maritz.net
+fensqlmgp01,,Windows,In Use,172.19.5.22,Windows 2008 R2,us.maritz.net
+fensqlmgp02,,Windows,In Use,172.19.6.23,Windows 2008 R2,us.maritz.net
+fensqlmgp03,,Windows,In Use,172.17.2.68,Windows 2008 R2,mpn.local
+fensqlmgp05,,Windows,In Use,172.19.23.34,Windows 2008 R2,us.maritz.net
+fensqlmgp06,,Windows,In Use,172.19.6.180,Windows 2008 R2,us.maritz.net
+fensqlmgp07,,Windows,In Use,172.19.6.102,Windows 2008 R2,us.maritz.net
+fensqlmgp08,,Windows,In Use,172.19.6.18,Windows 2008 R2,us.maritz.net
+fensqlmgp09,,Windows,In Use,172.17.2.69,Windows 2008 R2,mpn.local
+fensqlmgp10,,Windows,In Use,172.19.6.127,Windows 2008 R2,us.maritz.net
+fensqlmgp11,,Windows,In Use,172.19.23.38,Windows Server 2012 Standard,us.maritz.net
+fensqlmgp12,,Windows,In Use,172.19.23.44,Windows Server 2012 Standard,us.maritz.net
+fensqlmgp13,,Windows,In Use,172.19.6.161,Windows 2003,us.maritz.net
+fensqlmgp14,,Windows,In Use,172.19.6.163,Windows 2008 R2,us.maritz.net
+fensqlmgp16,,Windows,In Use,172.19.23.56,Windows 2008 R2,us.maritz.net
+fensqlmgp17,,Windows,In Use,172.19.14.33,Windows 2008 R2,us.maritz.net
+fensqlmgp19,,Windows,In Use,156.45.55.38,Windows Server 2012 R2 Standard R2,us.maritz.net
+fensqlmgp20,,Windows,In Use,172.19.5.19,Windows Server 2012 Standard,us.maritz.net
+fensqlmgp21,,Windows,Installed,156.45.50.164,Windows Server 2012 Standard,us.maritz.net
+fensqlmgp22,,Windows,In Use,172.19.6.173,Windows Server 2012 R2 Standard R2,us.maritz.net
+fensqlmgs01,,Windows,In Use,172.19.6.100,Windows 2008 R2,us.maritz.net
+fensqlmgs03,,Windows,In Use,172.19.23.39,Windows Server 2012 Standard,us.maritz.net
+fensqlmgt01,,Windows,Build/Rebuild,172.19.6.11,Windows 2008 R2,us.maritz.net
+fensqlmgtsd06,,Windows,In Use,156.45.55.141,Windows 2008 R2,us.maritz.net
+fensqlmgtsd07,,Windows,In Use,172.19.23.52,Windows Server 2012 Standard,us.maritz.net
+fensqlmgtsp09,,Windows,To Be Disposed - AM,156.45.50.185,,
+fensqlmgtsp21,,Windows,In Use,172.19.14.30,Windows 2008 R2,us.maritz.net
+fensqlmgtsp26,,Windows,In Use,172.19.6.76,Windows 2008 R2,us.maritz.net
+fensqlmgtsp27,,Windows,In Use,172.19.23.51,Windows Server 2012 Standard,us.maritz.net
+fensqlmgtss02,,Windows,In Use,172.19.23.30,Windows 2008 R2,us.maritz.net
+fensqlmlmd09,,Windows,In Use,156.45.66.99,Windows 2003,us.maritz.net
+fensqlmlmd11,,Windows,In Use,172.19.2.32,Windows 2008 R2,us.maritz.net
+fensqlmlmd12,,Windows,In Use,172.19.2.28,Windows 2008 R2,us.maritz.net
+fensqlmlmd126m,,Windows,De-Installed,10.65.2.53,,
+fensqlmlmd14,,Windows,In Use,172.19.2.36,Windows 2008 R2,us.maritz.net
+fensqlmlmp302m,,Windows,De-Installed,172.19.6.38,,
+fensqlmlmp51,,Windows,In Use,156.45.55.184,Windows 2003,us.maritz.net
+fensqlmlmp58,,Windows,To Be Disposed - AM,172.17.2.43,Windows 2003,mpn.local
+fensqlmlmp59,,Windows,To Be Disposed - AM,172.17.2.44,Windows 2003,mpn.local
+fensqlmlmp61,,Windows,In Use,172.19.6.19,Windows 2008 R2,us.maritz.net
+fensqlmlms15,,Windows,In Use,172.18.1.36,Windows 2003,us.maritz.net
+fensqlmlms16,,Windows,To Be Disposed - AM,172.18.1.35,Windows 2003,us.maritz.net
+fensqlmlms17,,Windows,In Use,156.45.50.180,Windows 2003,us.maritz.net
+fensqlmlms21,,Windows,In Use,172.19.6.14,Windows 2008 R2,us.maritz.net
+fensqlmlms315m,,Windows,De-Installed,172.19.6.50,,
+fensqlmlp07,,Windows,In Use,156.45.54.96,Windows 2003,us.maritz.net
+fensqlmmd02,,Windows,In Use,172.19.2.37,Windows 2008 R2,us.maritz.net
+fensqlmmd03,,Windows,In Use,172.19.2.40,Windows 2008 R2,us.maritz.net
+fensqlmmd04,,Windows,In Use,172.19.2.27,Windows 2008 R2,us.maritz.net
+fensqlmmd06,,Windows,In Use,172.19.2.45,Windows 2008 R2,us.maritz.net
+fensqlmmd07,,Windows,In Use,172.19.2.47,Windows 2008 R2,us.maritz.net
+fensqlmmd08,,Windows,In Use,172.19.2.48,Windows Server 2012 R2 Standard R2,us.maritz.net
+fensqlmmd09,,Windows,In Use,172.19.2.49,Windows Server 2012 R2 Standard R2,us.maritz.net
+fensqlmmd10,,Windows,In Use,156.45.50.153,Windows 2003,us.maritz.net
+fensqlmmd11,,Windows,In Use,172.19.2.52,Windows Server 2012 R2 Standard R2,us.maritz.net
+fensqlmmd12,,Windows,Build/Rebuild,172.19.2.42,Windows Server 2012 R2 Standard R2,us.maritz.net
+fensqlmmp01,,Windows,To Be Disposed - AM,,Windows 2003,us.maritz.net
+fensqlmmp03,,Windows,In Use,172.19.6.64,Windows 2008 R2,us.maritz.net
+fensqlmmp04,,Windows,In Use,172.19.6.59,Windows 2008 R2,us.maritz.net
+fensqlmmp05,,Windows,In Use,172.19.6.67,Windows 2008 R2,us.maritz.net
+fensqlmmp09,,Windows,In Use,172.19.6.38,Windows 2008 R2,us.maritz.net
+fensqlmmp10,,Windows,In Use,172.17.2.67,Windows 2008 R2,mpn.local
+fensqlmmp11,,Windows,In Use,172.19.6.80,Windows 2008 R2,us.maritz.net
+fensqlmmp12,,Windows,In Use,172.19.6.89,Windows 2008 R2,us.maritz.net
+fensqlmmp13,,Windows,In Use,172.19.6.91,Windows 2008 R2,us.maritz.net
+fensqlmmp14,,Windows,In Use,172.19.6.98,Windows 2008 R2,us.maritz.net
+fensqlmmp15,,Windows,In Use,172.19.6.97,Windows 2008 R2,us.maritz.net
+fensqlmmp16,,Windows,In Use,172.19.6.96,Windows 2008 R2,us.maritz.net
+fensqlmmp17,,Windows,In Use,172.19.6.106,Windows 2008 R2,us.maritz.net
+fensqlmmp18,,Windows,In Use,172.17.2.66,Windows 2008 R2,mpn.local
+fensqlmmp19,,Windows,In Use,172.19.6.83,Windows 2008 R2,us.maritz.net
+fensqlmmp20,,Windows,In Use,172.19.6.113,Windows 2008 R2,us.maritz.net
+fensqlmmp21,,Windows,In Use,172.19.6.123,Windows 2008 R2,us.maritz.net
+fensqlmmp22,,Windows,In Use,172.17.2.48,Windows 2008 R2,mpn.local
+fensqlmmp23,,Windows,In Use,156.45.55.111,Windows 2003,us.maritz.net
+fensqlmmp24,,Windows,Decommissioned,172.19.6.43,Windows Server 2012 R2 Standard R2,us.maritz.net
+fensqlmmp25,,Windows,Decommissioned,172.19.6.44,Windows Server 2012 R2 Standard R2,us.maritz.net
+fensqlmmp26,,Windows,In Use,172.19.6.164,Windows Server 2012 R2 Standard R2,us.maritz.net
+fensqlmms01,,Windows,In Use,172.19.6.52,Windows 2008 R2,us.maritz.net
+fensqlmms02,,Windows,In Use,172.19.6.78,Windows 2008 R2,us.maritz.net
+fensqlmms03,,Windows,In Use,172.17.2.45,Windows 2008 R2,mpn.local
+fensqlmms04,,Windows,In Use,172.19.6.84,Windows 2008 R2,us.maritz.net
+fensqlmms06,,Windows,In Use,172.19.6.94,Windows 2008 R2,us.maritz.net
+fensqlmms08,,Windows,In Use,172.19.6.130,Windows 2008 R2,us.maritz.net
+fensqlmms09,,Windows,In Use,172.19.6.31,Windows 2008 R2,us.maritz.net
+fensqlmms10,,Windows,In Use,172.19.2.46,Windows Server 2012 R2 Standard R2,us.maritz.net
+fensqlmms11,,Windows,In Use,172.17.2.29,Windows Server 2012 R2 Standard R2,mpn.local
+fensqlmmt01,,Windows,In Use,172.19.2.31,Windows 2008 R2,us.maritz.net
+fensqlmpcd01,,Windows,To Be Returned - AM,156.45.66.157,Windows 2003,us.maritz.net
+fensqlmpcd02,,Windows,In Use,156.45.66.138,Windows 2008 R2,us.maritz.net
+fensqlmpcp02,,Windows,In Use,172.19.6.50,Windows 2008 R2,us.maritz.net
+fensqlmrd15,,Windows,In Use,172.19.2.25,Windows 2008 R2,us.maritz.net
+fensqlmrd16,,Windows,In Use,156.45.54.159,Windows 2008 R2,us.maritz.net
+fensqlmrd17,,Windows,In Use,156.45.54.111,Windows 2008 R2,us.maritz.net
+fensqlmrd19,,Windows,In Use,156.45.55.77,Windows 2008 R2,us.maritz.net
+fensqlmrd20,,Windows,In Use,172.19.2.43,Windows 2008 R2,us.maritz.net
+fensqlmrd21,,Windows,In Use,156.45.54.30,Windows 2008 R2,us.maritz.net
+fensqlmrd22,,Windows,In Use,156.45.54.31,Windows 2008 R2,us.maritz.net
+fensqlmrd23,,Windows,In Use,156.45.55.108,Windows 2008 R2,us.maritz.net
+fensqlmrd24,,Windows,In Use,156.45.54.33,Windows 2008 R2,us.maritz.net
+fensqlmrd25,,Windows,In Use,156.45.54.35,Windows 2008 R2,us.maritz.net
+fensqlmrd26,,Windows,In Use,172.19.2.44,Windows 2008 R2,us.maritz.net
+fensqlmrd27,,Windows,In Use,156.45.54.14,Windows 2008 R2,us.maritz.net
+fensqlmrp100,,Windows,In Use,172.19.6.139,Windows 2008 R2,us.maritz.net
+fensqlmrp101,,Windows,In Use,172.19.6.141,Windows 2008 R2,us.maritz.net
+fensqlmrp102,,Windows,In Use,172.19.6.142,Windows 2008 R2,us.maritz.net
+fensqlmrp103,,Windows,In Use,172.19.6.143,Windows 2008 R2,us.maritz.net
+fensqlmrp104,,Windows,In Use,172.19.6.155,Windows 2008 R2,us.maritz.net
+fensqlmrp105,,Windows,In Use,172.19.6.153,Windows 2008 R2,us.maritz.net
+fensqlmrp106,,Windows,In Use,172.19.6.147,Windows 2008 R2,us.maritz.net
+fensqlmrp107,,Windows,In Use,172.19.6.148,Windows 2008 R2,us.maritz.net
+fensqlmrp108,,Windows,In Use,172.19.6.149,Windows 2008 R2,us.maritz.net
+fensqlmrp109,,Windows,In Use,172.19.6.151,Windows 2008 R2,us.maritz.net
+fensqlmrp110,,Windows,In Use,172.19.6.86,Windows 2008 R2,us.maritz.net
+fensqlmrp111,,Windows,In Use,172.19.6.152,Windows 2008 R2,us.maritz.net
+fensqlmrp112,,Windows,In Use,172.19.6.162,Windows 2008 R2,us.maritz.net
+fensqlmrp113,,Windows,In Use,172.19.6.60,Windows 2008 R2,us.maritz.net
+fensqlmrp114,,Windows,In Use,172.19.6.66,Windows 2008 R2,us.maritz.net
+fensqlmrp117,,Windows,In Use,172.19.6.30,Windows Server 2012 R2 Standard R2,us.maritz.net
+fensqlmrp118,,Windows,In Use,172.19.6.166,Windows 2008 R2,us.maritz.net
+fensqlmrp119,,Windows,In Use,172.19.6.34,Windows Server 2012 R2 Standard R2,us.maritz.net
+fensqlmrp120,,Windows,In Use,172.19.6.36,Windows Server 2012 R2 Standard R2,us.maritz.net
+fensqlmrp121,,Windows,Decommissioned,172.19.6.74,Windows 2008 R2,us.maritz.net
+fensqlmrp122,,Windows,To Be Disposed - AM,,Windows 2003,us.maritz.net
+fensqlmrp126,,Windows,In Use,172.19.5.5,Windows Server 2012 R2 Standard R2,us.maritz.net
+fensqlmrp127,,Windows,Build/Rebuild,172.19.6.45,,
+fensqlmrp204m,,Windows,De-Installed,10.65.1.34,,
+fensqlmrp34,,Windows,In Use,156.45.54.157,Windows 2003,us.maritz.net
+fensqlmrp36,,Windows,In Use,156.45.58.153,Windows 2008 R2,us.maritz.net
+fensqlmrp46,,Windows,In Use,172.19.6.22,Windows 2008 R2,us.maritz.net
+fensqlmrp47,,Windows,In Use,172.19.6.20,Windows 2008 R2,us.maritz.net
+fensqlmrp48,,Windows,In Use,172.19.6.29,Windows 2008 R2,us.maritz.net
+fensqlmrp49,,Windows,In Use,156.45.58.147,Windows 2008 R2,us.maritz.net
+fensqlmrp50,,Windows,In Use,172.19.6.58,Windows 2008 R2,us.maritz.net
+fensqlmrp51,,Windows,In Use,172.19.6.56,Windows 2008 R2,us.maritz.net
+fensqlmrp52,,Windows,In Use,172.19.5.23,Windows 2008 R2,us.maritz.net
+fensqlmrp60,,Windows,In Use,172.19.18.78,Windows 2008 R2,us.maritz.net
+fensqlmrp67,,Windows,In Use,172.19.6.17,Windows 2008 R2,us.maritz.net
+fensqlmrp68,,Windows,In Use,172.19.6.93,Windows 2008 R2,us.maritz.net
+fensqlmrp69,,Windows,In Use,172.19.6.92,Windows 2008 R2,us.maritz.net
+fensqlmrp70,,Windows,In Use,156.45.58.145,Windows 2008 R2,us.maritz.net
+fensqlmrp71,,Windows,In Use,172.19.6.101,Windows 2008 R2,us.maritz.net
+fensqlmrp72,,Windows,In Use,172.19.6.42,Windows 2008 R2,us.maritz.net
+fensqlmrp73,,Windows,In Use,172.19.6.79,Windows 2008 R2,us.maritz.net
+fensqlmrp74,,Windows,In Use,172.19.6.105,Windows 2008 R2,us.maritz.net
+fensqlmrp75,,Windows,In Use,172.19.6.104,Windows 2008 R2,us.maritz.net
+fensqlmrp76,,Windows,In Use,172.19.6.108,Windows 2008 R2,us.maritz.net
+fensqlmrp78,,Windows,In Use,172.19.6.110,Windows 2008 R2,us.maritz.net
+fensqlmrp79,,Windows,In Use,172.19.6.112,Windows 2008 R2,us.maritz.net
+fensqlmrp81,,Windows,In Use,172.19.6.69,Windows 2008 R2,us.maritz.net
+fensqlmrp87,,Windows,In Use,172.19.6.131,Windows 2008 R2,us.maritz.net
+fensqlmrp88,,Windows,In Use,172.19.6.133,Windows 2008 R2,us.maritz.net
+fensqlmrp89,,Windows,In Use,172.19.6.65,Windows 2008 R2,us.maritz.net
+fensqlmrp90,,Windows,In Use,172.19.6.128,Windows 2008 R2,us.maritz.net
+fensqlmrp91,,Windows,In Use,172.19.6.136,Windows 2008 R2,us.maritz.net
+fensqlmrp92,,Windows,In Use,172.19.6.135,Windows 2008 R2,us.maritz.net
+fensqlmrp93,,Windows,In Use,172.19.6.138,Windows 2008 R2,us.maritz.net
+fensqlmrp94,,Windows,In Use,172.19.6.140,Windows 2008 R2,us.maritz.net
+fensqlmrp95,,Windows,In Use,172.19.6.134,Windows 2008 R2,us.maritz.net
+fensqlmrp96,,Windows,In Use,172.19.6.154,Windows 2008 R2,us.maritz.net
+fensqlmrp97,,Windows,In Use,172.19.6.177,Windows 2008 R2,us.maritz.net
+fensqlmrp98,,Windows,In Use,172.19.6.178,Windows 2008 R2,us.maritz.net
+fensqlmrp99,,Windows,In Use,172.19.6.179,Windows 2008 R2,us.maritz.net
+fensqlmrs07,,Windows,In Use,172.19.6.28,Windows 2008 R2,us.maritz.net
+fensqlmrs08,,Windows,In Use,172.19.6.21,Windows 2008 R2,us.maritz.net
+fensqlmrs09,,Windows,In Use,172.19.6.57,Windows 2008 R2,us.maritz.net
+fensqlmrs10,,Windows,In Use,172.19.6.26,Windows 2008 R2,us.maritz.net
+fensqlmrs13,,Windows,In Use,172.19.6.103,Windows 2008 R2,us.maritz.net
+fensqlmrs14,,Windows,In Use,172.19.6.107,Windows 2008 R2,us.maritz.net
+fensqlmrs15,,Windows,In Use,172.19.6.109,Windows 2008 R2,us.maritz.net
+fensqlmrs16,,Windows,In Use,172.19.6.114,Windows 2008 R2,us.maritz.net
+fensqlmrs17,,Windows,In Use,172.19.6.115,Windows 2008 R2,us.maritz.net
+fensqlmrs18,,Windows,In Use,172.19.6.118,Windows 2008 R2,us.maritz.net
+fensqlmrs19,,Windows,In Use,172.19.6.27,Windows 2008 R2,us.maritz.net
+fensqlmrs20,,Windows,In Use,172.19.6.13,Windows 2008 R2,us.maritz.net
+fensqlmrs25,,Windows,In Use,172.19.6.137,Windows 2008 R2,us.maritz.net
+fensqlmrs26,,Windows,In Use,172.19.6.129,Windows 2008 R2,us.maritz.net
+fensqlmrs27,,Windows,In Use,172.19.6.132,Windows 2008 R2,us.maritz.net
+fensqlmrs29,,Windows,In Use,172.19.6.146,Windows 2008 R2,us.maritz.net
+fensqlmrs30,,Windows,In Use,172.19.6.145,Windows 2008 R2,us.maritz.net
+fensqlmrs32,,Windows,In Use,172.19.6.157,Windows 2008 R2,us.maritz.net
+fensqlmrs34,,Windows,In Use,172.19.6.159,Windows 2008 R2,us.maritz.net
+fensqlmrs35,,Windows,In Use,172.19.6.160,Windows 2008 R2,us.maritz.net
+fensqlmrs36,,Windows,In Use,172.19.6.70,Windows 2008 R2,us.maritz.net
+fensqlmrt02,,Windows,In Use,172.19.6.88,Windows 2008 R2,us.maritz.net
+fensqlmrt03,,Windows,In Use,172.19.6.156,Windows 2008 R2,us.maritz.net
+fensqlmrt04,,Windows,In Use,172.19.6.33,Windows Server 2012 R2 Standard R2,us.maritz.net
+fensqlmtd02,,Windows,In Use,156.45.54.27,Windows 2008 R2,us.maritz.net
+fensqlmtp01,,Windows,In Use,172.19.22.29,Windows 2008 R2,us.maritz.net
+fensqlmtp02,,Windows,In Use,156.45.55.148,Windows 2008 R2,us.maritz.net
+fensqlnicep01,,Windows,In Use,172.18.6.51,Windows 2008 R2,us.maritz.net
+fensqlnicep02,,Windows,In Use,172.18.6.52,Windows 2008 R2,us.maritz.net
+fensqlnicep03,,Windows,In Use,172.18.6.53,Windows 2008 R2,us.maritz.net
+fensqlvcp03,,Windows,In Use,172.18.7.44,Windows Server 2012 R2 Standard R2,us.maritz.net
+fentelatconp01,,Windows,In Use,172.19.20.50,Windows 2003,us.maritz.net
+fentelccmp01,,Windows,De-Installed,172.19.20.35,Windows 2003,us.maritz.net
+fentelcimapp01,,Windows,In Use,172.19.20.43,Windows 2003,us.maritz.net
+fentelcimapp02,,Windows,In Use,172.19.20.44,Windows 2003,us.maritz.net
+fentelcimsgp01,,Windows,In Use,172.19.20.45,Windows 2003,us.maritz.net
+fentelcimsqlp01,,Windows,In Use,172.19.20.47,Windows 2003,us.maritz.net
+fentelcimsrvp01,,Windows,In Use,172.19.20.48,Windows 2003,us.maritz.net
+fentelcimwebp01,,Windows,In Use,172.19.20.41,Windows 2003,us.maritz.net
+fentelcimwebp02,,Windows,In Use,172.19.20.42,Windows 2003,us.maritz.net
+fentelcupmp01,,Windows,In Use,172.19.20.49,Windows 2003,us.maritz.net
+fentelcvpp01,,Windows,In Use,172.19.20.40,Windows 2003,us.maritz.net
+fentelrogp01,,Windows,In Use,172.19.20.30,Windows 2003,us.maritz.net
+fentelsqlp01,,Windows,In Use,172.19.20.46,Windows 2003,us.maritz.net
+fentelvrup01,,Windows,In Use,172.19.20.31,Windows 2003,us.maritz.net
+fentelvrup02,,Windows,In Use,172.19.20.32,Windows 2003,us.maritz.net
+fentelvxmp01,,Windows,In Use,172.19.20.33,Windows 2003,us.maritz.net
+fentelvxmp02,,Windows,In Use,172.19.20.34,Windows 2003,us.maritz.net
+FENTMP2012,,Windows,Build/Rebuild,dhcp,,
+FENTMP2012R2,,Windows,Build/Rebuild,dhcp,,
+fentmplbase2k3s,,Windows,Build/Rebuild,dhcp,,
+FENTMPLBASE2K8S,,Windows,Build/Rebuild,dhcp,,
+FENTMPLSQL2K3S,,Windows,Build/Rebuild,dhcp,,
+FENTMPLSQL2K8S,,Windows,Build/Rebuild,dhcp,,
+fentmplweb2k3s,,Windows,Build/Rebuild,dhcp,,
+FENTMPLWEB2K8S,,Windows,Build/Rebuild,dhcp,,
+fentslcns01,,Windows,In Use,156.45.50.114,Windows 2003,us.maritz.net
+fentsmgmt02,,Windows,In Use,156.45.52.138,Windows 2003,us.maritz.net
+fentsvr00,,Windows,To Be Disposed - AM,156.45.53.140,Windows 2003,us.maritz.net
+fentsvr01,,Windows,In Use,156.45.53.141,Windows 2003,us.maritz.net
+fentsvr03,,Windows,In Use,156.45.53.143,Windows 2003,us.maritz.net
+fentsvr07,,Windows,In Use,156.45.53.147,Windows 2003,us.maritz.net
+fentsvr09,,Windows,Decommissioned,156.45.52.9,Windows 2003,us.maritz.net
+fentsvr10,,Windows,To Be Disposed - AM,156.45.52.10,Windows 2003,us.maritz.net
+fentsvr1004,,Windows,In Use,172.18.2.250,Windows 2003,us.maritz.net
+fentsvr1007,,Windows,In Use,156.45.55.43,Windows 2003,us.maritz.net
+fentsvr1008,,Windows,In Use,172.19.6.250,Windows 2003,us.maritz.net
+fentsvr1011,,Windows,In Use,172.19.2.250,Windows 2003,us.maritz.net
+fentsvr1014,,Windows,In Use,172.19.18.250,Windows 2008 R2,us.maritz.net
+fentsvr1015,,Windows,In Use,172.19.22.250,Windows 2008 R2,us.maritz.net
+fentsvr1016,,Windows,In Use,172.19.8.250,Windows 2008 R2,us.maritz.net
+fentsvr1017,,Windows,In Use,172.19.7.250,Windows 2008 R2,us.maritz.net
+fentsvr1018,,Windows,In Use,172.19.4.250,Windows 2008 R2,us.maritz.net
+fentsvr1019,,Windows,In Use,172.19.3.250,Windows 2008 R2,us.maritz.net
+fentsvr1021,,Windows,In Use,172.19.17.250,Windows 2008 R2,us.maritz.net
+fentsvr1022,,Windows,In Use,172.17.4.250,Windows 2008 R2,mpn.local
+fentsvr1023,,Windows,In Use,172.18.3.250,Windows 2008 R2,us.maritz.net
+fentsvr1025,,Windows,In Use,172.19.20.250,Windows 2008 R2,us.maritz.net
+fentsvr1026,,Windows,In Use,172.19.23.250,Windows 2008 R2,us.maritz.net
+fentsvr1027,,Windows,In Use,172.19.2.251,Windows 2008 R2,us.maritz.net
+fentsvr1030,,Windows,In Use,156.45.58.146,Windows 2008 R2,us.maritz.net
+fentsvr1031,,Windows,In Use,172.19.6.251,Windows 2008 R2,us.maritz.net
+fentsvr104,,Windows,In Use,156.45.53.184,Windows 2003,us.maritz.net
+fentsvr109,,Windows,In Use,156.45.53.189,Windows 2003,us.maritz.net
+fentsvr11,,Windows,To Be Disposed - AM,156.45.52.11,Windows 2003,us.maritz.net
+fentsvr114,,Windows,In Use,156.45.53.194,Windows 2003,us.maritz.net
+fentsvr115,,Windows,In Use,156.45.53.195,Windows 2003,us.maritz.net
+fentsvr117,,Windows,In Use,156.45.53.197,Windows 2003,us.maritz.net
+fentsvr12,,Windows,To Be Disposed - AM,156.45.52.12,Windows 2003,us.maritz.net
+fentsvr13,,Windows,In Use,156.45.53.153,Windows 2003,us.maritz.net
+fentsvr14,,Windows,Decommissioned,156.45.53.154,Windows 2003,us.maritz.net
+fentsvr401,,Windows,In Use,156.45.52.61,Windows 2008 R2,us.maritz.net
+fentsvr502,,Windows,In Use,156.45.52.52,Windows 2008 R2,us.maritz.net
+fentsvr503,,Windows,In Use,156.45.52.53,Windows 2008 R2,us.maritz.net
+fentsvr504,,Windows,In Use,156.45.52.54,Windows 2008 R2,us.maritz.net
+fentsvr505,,Windows,In Use,156.45.52.55,Windows 2008 R2,us.maritz.net
+fentsvr506,,Windows,In Use,156.45.52.56,Windows 2008 R2,us.maritz.net
+fentsvr507,,Windows,In Use,156.45.52.57,Windows 2008 R2,us.maritz.net
+fentsvr801v,,Windows,In Use,156.45.55.115,Windows 2008 R2,us.maritz.net
+fentsvr803v,,Windows,In Use,172.18.1.250,Windows 2003,us.maritz.net
+fentsvr804v,,Windows,In Use,156.45.55.53,Windows 2003,us.maritz.net
+fentsvrd01,,Windows,De-Installed,156.45.52.151,,
+fentsvrmnete01,,Windows,In Use,156.45.59.120,Windows 2003,mnete.local
+fentsvrmneti01,,Windows,In Use,172.19.13.250,Windows 2003,mneti.local
+fentsvrmpne02,,Windows,In Use,156.45.69.97,Windows 2008 R2,mpne.local
+fentsvrp302,,Windows,Decommissioned,172.17.5.32,Windows 2003,mpn.local
+fentsvrp306,,Windows,Decommissioned,172.17.5.36,Windows 2003,mpn.local
+FENTSXENP01,,XenServer,In Use,156.45.52.201,,
+FENTSXENP08,,XenServer,In Use,156.45.52.208,,
+FENTSXENP12,,XenServer,To Be Re-deployed - AM,156.45.52.212,,
+FENTSXENP13,,XenServer,In Use,156.45.52.213,,
+FENTSXENP14,,XenServer,In Use,156.45.52.214,,
+FENTSXENP15,,XenServer,In Use,156.45.52.215,,
+fentxenapp2013,,Windows,Build/Rebuild,n/a,Windows 2008 R2,us.maritz.net
+fenumfax01,,Windows,In Use,156.45.53.60,Windows 2008 R2,us.maritz.net
+fenumfax02,,Windows,Installed,156.45.53.80,Windows Server 2012 Standard,us.maritz.net
+fenummsgp05,,Windows,In Use,156.45.53.73,Windows 2008 R2,us.maritz.net
+fenummsgp06,,Windows,In Use,156.45.53.74,Windows 2008 R2,us.maritz.net
+fenvsp600,,Windows,In Use,192.168.32.55,Windows 2003,WORKGROUP
+fenvsp700,,Windows,In Use,192.168.32.50,Windows 2003,WORKGROUP
+fenwapafisd03,,Windows,In Use,156.45.66.64,Windows 2003,us.maritz.net
+fenwapafisd501v,,Windows,In Use,156.45.55.102,Windows 2003,us.maritz.net
+fenwapafisp01,,Windows,In Use,156.45.55.124,Windows 2003,us.maritz.net
+fenwapbsmp01,,Windows,In Use,10.99.12.20,Windows 2008 R2,us.maritz.net
+fenwapcsip01,,Windows,In Use,172.19.8.39,Windows 2008 R2,us.maritz.net
+fenwapmapd01,,Windows,In Use,156.45.50.59,Windows 2003,us.maritz.net
+fenwapmapp04,,Windows,In Use,156.45.55.160,Windows 2003,us.maritz.net
+fenwapmapp05,,Windows,In Use,10.99.12.31,Windows 2003,us.maritz.net
+fenwapmapp11,,Windows,In Use,156.45.50.169,Windows 2003,us.maritz.net
+fenwapmapp12,,Windows,In Use,192.168.11.17,Windows 2003,mneti.local
+fenwapmapp13,,Windows,In Use,156.45.55.35,Windows 2003,us.maritz.net
+fenwapmapp14,,Windows,In Use,10.99.12.39,Windows 2003,us.maritz.net
+fenwapmaps02,,Windows,In Use,156.45.50.143,Windows 2003,us.maritz.net
+fenwapmcp01,,Windows,Decommissioned,192.168.32.81,Windows 2003,csd.maritzcs
+fenwapmcp03,,Windows,In Use,156.45.55.206,Windows 2003,us.maritz.net
+fenwapmcp04,,Windows,In Use,156.45.55.87,Windows 2003,us.maritz.net
+fenwapmcp05,,Windows,In Use,156.45.55.67,Windows 2003,us.maritz.net
+fenwapmcp06,,Windows,In Use,156.45.55.68,Windows 2003,us.maritz.net
+fenwapmcp07,mpn.local,Windows,In Use,172.17.3.67,Windows 2008 R2,mpn.local
+fenwapmcp08,mpn.local,Windows,In Use,172.17.3.68,Windows 2008 R2,mpn.local
+fenwapmcp09,,Windows,In Use,156.45.55.161,Windows 2008 R2,us.maritz.net
+fenwapmcp11,,Windows,In Use,156.45.55.45,Windows Server 2012 R2 Standard R2,us.maritz.net
+fenwapmcs01,,Windows,Decommissioned,192.168.32.71,Windows 2003,csd.maritzcs
+fenwapmcs02,,Windows,In Use,156.45.55.62,Windows 2008 R2,us.maritz.net
+fenwapmcs03,,Windows,In Use,156.45.55.139,Windows Server 2012 R2 Standard R2,us.maritz.net
+fenwapmcs801v,,Windows,In Use,156.45.55.231,Windows 2003,us.maritz.net
+fenwapmesp02,,Windows,In Use,156.45.54.135,Windows 2003,us.maritz.net
+fenwapmgd02,,Windows,In Use,156.45.66.52,Windows 2003,us.maritz.net
+fenwapmgd04,,Windows,In Use,10.99.12.34,Windows 2008 R2,us.maritz.net
+fenwapmgd05,,Windows,In Use,172.19.23.31,Windows Server 2012 Standard,us.maritz.net
+fenwapmgd06,,Windows,In Use,172.19.8.65,Windows 2008 R2,us.maritz.net
+fenwapmgd07,,Windows,In Use,10.99.12.41,Windows Server 2012 R2 Standard R2,us.maritz.net
+fenwapmgd08,,Windows,Build/Rebuild,156.45.66.237,Windows Server 2012 R2 Standard R2,us.maritz.net
+fenwapmgp02,,Windows,In Use,156.45.54.81,Windows 2003,us.maritz.net
+fenwapmgp03,,Windows,In Use,156.45.54.147,Windows 2003,us.maritz.net
+fenwapmgp04,,Windows,In Use,156.45.55.63,Windows Server 2012 R2 Standard R2,us.maritz.net
+fenwapmgp09,,Windows,In Use,172.19.23.12,Windows 2008 R2,us.maritz.net
+fenwapmgp10,,Windows,In Use,172.19.23.8,Windows 2008 R2,us.maritz.net
+fenwapmgp11,,Windows,In Use,10.99.12.35,Windows 2008 R2,us.maritz.net
+fenwapmgp12,,Windows,In Use,10.99.12.36,Windows 2008 R2,us.maritz.net
+fenwapmgp13,,Windows,In Use,172.19.23.57,Windows Server 2012 Standard,us.maritz.net
+fenwapmgp14,,Windows,In Use,172.19.23.55,Windows Server 2012 Standard,us.maritz.net
+fenwapmgp15,,Windows,Installed,192.168.12.68,Windows Server 2012 Standard,us.maritz.net
+fenwapmgp16,,Windows,Installed,192.168.12.69,Windows Server 2012 Standard,us.maritz.net
+fenwapmgp17,,Windows,In Use,156.45.55.30,Windows 2008 R2,us.maritz.net
+fenwapmgp20,,Windows,In Use,192.168.12.80,Windows Server 2012 R2 Standard R2,mneti.local
+fenwapmgp21,,Windows,In Use,192.168.12.81,Windows Server 2012 R2 Standard R2,mneti.local
+fenwapmgp22,,Windows,Build/Rebuild,156.45.54.98,Windows Server 2012 R2 Standard R2,us.maritz.net
+FENWAPMGP23,,Windows,Build/Rebuild,156.45.54.97,,
+fenwapmgs01,,Windows,In Use,156.45.54.47,Windows Server 2012 Standard,us.maritz.net
+fenwapmgs02,,Windows,In Use,156.45.54.247,Windows Server 2012 R2 Standard R2,us.maritz.net
+fenwapmgs03,,Windows,In Use,156.45.54.248,Windows 2003,us.maritz.net
+fenwapmgs04,,Windows,In Use,172.19.23.10,Windows 2008 R2,us.maritz.net
+fenwapmgs06,,Windows,In Use,172.19.23.48,Windows Server 2012 Standard,us.maritz.net
+fenwapmgs07,,Windows,In Use,172.19.23.49,Windows Server 2012 Standard,us.maritz.net
+fenwapmgt11,,Windows,In Use,10.99.12.37,Windows 2008 R2,us.maritz.net
+fenwapmgt12,,Windows,In Use,10.99.12.38,Windows 2008 R2,us.maritz.net
+fenwapmlmd10,,Windows,In Use,156.45.66.232,Windows 2003,us.maritz.net
+fenwapmlmd11,,Windows,In Use,156.45.66.198,Windows 2003,us.maritz.net
+fenwapmlmd12,,Windows,In Use,156.45.66.197,Windows 2003,us.maritz.net
+fenwapmlmd15,,Windows,In Use,156.45.66.77,Windows 2003,us.maritz.net
+fenwapmlmp15,,Windows,To Be Disposed - AM,156.45.55.233,,
+fenwapmlmp506,,Windows,In Use,156.45.58.56,Windows 2003,WORKGROUP
+fenwapmlmp507,,Windows,In Use,156.45.58.57,Windows 2003,WORKGROUP
+fenwapmlmp508,,Windows,In Use,156.45.58.58,Windows 2003,WORKGROUP
+fenwapmlmp509,,Windows,In Use,156.45.58.59,Windows 2003,WORKGROUP
+fenwapmlmp510,,Windows,In Use,156.45.58.60,Windows 2003,WORKGROUP
+fenwapmlmp611,,Windows,De-Installed,156.45.58.19,,
+fenwapmlmp62,,Windows,Decommissioned,172.19.6.87,Windows 2003,us.maritz.net
+fenwapmlmp63,,Windows,Decommissioned,156.45.55.49,Windows 2003,us.maritz.net
+fenwapmlmp66,,Windows,Decommissioned,156.45.55.98,Windows 2003,us.maritz.net
+fenwapmlmp73,,Windows,In Use,156.45.58.42,Windows 2003,WORKGROUP
+fenwapmlmp74,,Windows,De-Installed,,Windows 2003,us.maritz.net
+fenwapmlmp79,maritz.com,Windows,In Use,156.45.50.145,Windows 2003,us.maritz.net
+fenwapmlms04,,Windows,In Use,156.45.66.79,Windows 2003,us.maritz.net
+fenwapmlms13,,Windows,In Use,156.45.58.43,Windows 2003,WORKGROUP
+fenwapmlms32,,Windows,Decommissioned,172.18.2.125,Windows 2003,us.maritz.net
+fenwapmlms38,,Windows,De-Installed,,,
+fenwapmmd01,,Windows,In Use,156.45.66.181,Windows 2003,us.maritz.net
+fenwapmmd03,,Windows,In Use,172.19.3.21,Windows 2008 R2,us.maritz.net
+fenwapmmd04,,Windows,In Use,172.19.3.22,Windows 2008 R2,us.maritz.net
+fenwapmmd05,,Windows,Build/Rebuild,156.45.66.215,Windows Server 2012 R2 Standard R2,us.maritz.net
+fenwapmmd06,us.maritz.net,Windows,In Use,156.45.66.15,Windows Server 2012 R2 Standard R2,us.maritz.net
+fenwapmmd07,us.maritz.net,Windows,Build/Rebuild,156.45.66.75,Windows Server 2012 R2 Standard R2,us.maritz.net
+fenwapmmp01,,Windows,In Use,156.45.50.75,Windows 2003,us.maritz.net
+fenwapmmp03,,Windows,In Use,156.45.55.83,Windows 2003,us.maritz.net
+fenwapmmp05,,Windows,In Use,156.45.55.123,Windows 2003,us.maritz.net
+fenwapmmp06,,Windows,Installed,172.17.3.166,Windows 2003,mpn.local
+fenwapmmp07,,Windows,Decommissioned,172.17.3.167,Windows 2003,mpn.local
+fenwapmmp08,us.maritz.net,Windows,In Use,172.19.6.77,Windows 2008 R2,us.maritz.net
+fenwapmmp09,mpn.local,Windows,In Use,172.17.3.96,Windows 2008 R2,mpn.local
+fenwapmmp10,mpn.local,Windows,In Use,172.17.3.97,Windows 2008 R2,mpn.local
+fenwapmmp11,mpn.local,Windows,In Use,172.17.3.98,Windows 2008 R2,mpn.local
+fenwapmmp12,,Windows,In Use,172.19.7.44,Windows 2008 R2,us.maritz.net
+fenwapmmp13,,Windows,In Use,156.45.55.199,Windows 2008 R2,us.maritz.net
+fenwapmmp14,,Windows,In Use,156.45.55.126,Windows 2008 R2,us.maritz.net
+fenwapmmp15,us.maritz.net,Windows,In Use,156.45.55.94,Windows 2008 R2,us.maritz.net
+fenwapmmp26,,Windows,In Use,156.45.50.43,Windows 2008 R2,us.maritz.net
+fenwapmmp27,,Windows,In Use,156.45.50.47,Windows 2008 R2,us.maritz.net
+fenwapmmp36,,Windows,In Use,156.45.50.163,Windows 2008 R2,us.maritz.net
+fenwapmmp37,,Windows,In Use,156.45.50.226,Windows 2008 R2,us.maritz.net
+fenwapmmp38,,Windows,In Use,156.45.50.165,Windows 2008 R2,us.maritz.net
+fenwapmmp39,,Windows,In Use,156.45.50.241,Windows 2008 R2,us.maritz.net
+fenwapmmp40,,Windows,In Use,156.45.50.52,Windows Server 2012 R2 Standard R2,us.maritz.net
+fenwapmmp41,mpn.local,Windows,In Use,172.17.3.84,Windows Server 2012 R2 Standard R2,mpn.local
+fenwapmmp42,mpn.local,Windows,In Use,172.17.3.134,Windows Server 2012 R2 Standard R2,mpn.local
+fenwapmmp44,mpn.local,Windows,In Use,172.17.3.177,Windows Server 2012 R2 Standard R2,mpn.local
+fenwapmmp45,,Windows,In Use,156.45.54.146,Windows Server 2012 R2 Standard R2,us.maritz.net
+fenwapmmp46,,Windows,In Use,156.45.54.167,Windows Server 2012 R2 Standard R2,us.maritz.net
+fenwapmms01,,Windows,In Use,172.19.3.52,Windows 2003,us.maritz.net
+fenwapmms02,mpn.local,Windows,In Use,172.17.3.54,Windows 2008 R2,mpn.local
+fenwapmms03,mpn.local,Windows,In Use,172.17.3.95,Windows 2008 R2,mpn.local
+fenwapmms05,us.maritz.net,Windows,In Use,156.45.66.41,Windows 2008 R2,us.maritz.net
+fenwapmms06,,Windows,Installed,172.18.2.23,Windows Server 2012 R2 Standard R2,us.maritz.net
+fenwapmms07,,Windows,In Use,156.45.66.12,Windows Server 2012 R2 Standard R2,us.maritz.net
+fenwapmms08,,Windows,In Use,172.19.3.100,Windows Server 2012 R2 Standard R2,us.maritz.net
+fenwapmms09,,Windows,Build/Rebuild,156.45.66.9,,
+fenwapmrp16,,Windows,In Use,172.19.8.56,Windows 2003,us.maritz.net
+fenwapmrp17,,Windows,In Use,172.19.8.57,Windows 2003,us.maritz.net
+fenwapmrp20,,Windows,In Use,156.45.58.152,Windows 2003,us.maritz.net
+fenwapmrp21,,Windows,In Use,172.19.7.45,Windows 2003,us.maritz.net
+fenwapmrp22,,Windows,In Use,172.19.18.32,Windows 2008 R2,us.maritz.net
+fenwapmrp23,,Windows,In Use,172.19.18.21,Windows 2008 R2,us.maritz.net
+fenwapmrp25,,Windows,In Use,172.19.7.91,Windows Server 2012 R2 Standard R2,us.maritz.net
+fenwapmrp26,,Windows,Build/Rebuild,172.19.8.70,Windows Server 2012 R2 Standard R2,us.maritz.net
+fenwapmrp27,,Windows,Build/Rebuild,172.19.8.71,,
+fenwapmrp28,,Windows,Build/Rebuild,156.45.58.80,,
+fenwapmrp801v_Retired,,Windows,De-Installed,156.45.55.181,,
+fenwapmtp27,,Windows,In Use,156.45.55.183,Windows 2003,us.maritz.net
+fenwapmtp28,,Windows,In Use,156.45.55.167,Windows 2003,us.maritz.net
+fenwapmtp38,,Windows,In Use,156.45.55.170,Windows 2008 R2,us.maritz.net
+fenwapmtp41,,Windows,In Use,156.45.54.174,Windows 2008 R2,us.maritz.net
+fenwapmtp42,,Windows,In Use,156.45.54.176,Windows 2008 R2,us.maritz.net
+fenwapmtp43,,Windows,In Use,156.45.54.178,Windows 2008 R2,us.maritz.net
+fenwapmtp44,,Windows,In Use,156.45.54.180,Windows 2008 R2,us.maritz.net
+fenwapmtp45,,Windows,In Use,156.45.54.181,Windows 2008 R2,us.maritz.net
+fenwapmtp46,,Windows,In Use,172.19.22.28,Windows 2008 R2,us.maritz.net
+fenwapmtp49,,Windows,Build/Rebuild,156.45.55.175,Windows Server 2012 R2 Standard R2,us.maritz.net
+fenwapmtp50,,Windows,Build/Rebuild,156.45.55.165,Windows Server 2012 R2 Standard R2,us.maritz.net
+fenwapmtp51,,Windows,Build/Rebuild,156.45.55.166,Windows Server 2012 R2 Standard R2,us.maritz.net
+fenwapmts12,,Windows,In Use,156.45.55.56,Windows 2008 R2,us.maritz.net
+fenwapmts13,,Windows,In Use,156.45.55.200,Windows 2008 R2,us.maritz.net
+fenwapmts16,,Windows,In Use,156.45.66.176,Windows 2008 R2,us.maritz.net
+fenwapmts17,,Windows,In Use,172.19.22.27,Windows 2008 R2,us.maritz.net
+fenwapmts19,,Windows,Decommissioned,,Windows 2008 R2,us.maritz.net
+fenwapmts20,,Windows,In Use,156.45.55.140,Windows Server 2012 R2 Standard R2,us.maritz.net
+fenwapnmsp02,maritz.com,Windows,In Use,156.45.54.154,Windows 2008 R2,us.maritz.net
+fenwapnmsp03,,Windows,In Use,10.99.10.36,Windows 2008 R2,mpn.local
+fenwapnmsp04,,Windows,In Use,192.168.10.33,Windows 2008 R2,mneti.local
+fenwapnmsp05,,Windows,In Use,156.45.54.32,Windows Server 2012 R2 Standard R2,us.maritz.net
+fenwapnmsp06,,Windows,In Use,156.45.55.31,Windows Server 2012 R2 Standard R2,us.maritz.net
+fenwapnmsp07,,Windows,In Use,10.99.12.22,Windows Server 2012 R2 Standard R2,us.maritz.net
+fenwapnmsp08,,Windows,In Use,10.99.12.26,Windows Server 2012 R2 Standard R2,us.maritz.net
+fenwapnmsp09,,Windows,In Use,192.168.10.37,Windows Server 2012 R2 Standard R2,mneti.local
+fenwapnmsp10,,Windows,In Use,10.99.10.23,Windows Server 2012 R2 Standard R2,mpn.local
+fenwapnmsp11,,Windows,In Use,156.45.50.21,Windows Server 2012 R2 Standard R2,us.maritz.net
+fenwapnmsp12,,Windows,In Use,10.99.12.27,Windows Server 2012 R2 Standard R2,us.maritz.net
+fenwapnmsp13,,Windows,In Use,10.99.12.28,Windows Server 2012 R2 Standard R2,us.maritz.net
+fenwapnmsp14,,Windows,In Use,10.99.12.29,Windows Server 2012 R2 Standard R2,us.maritz.net
+fenwapnmsp15,,Windows,In Use,10.99.10.25,Windows Server 2012 R2 Standard R2,mpn.local
+fenwapnmsp16,,Windows,In Use,192.168.10.38,Windows Server 2012 R2 Standard R2,mneti.local
+fenwapnmsp17,,Windows,In Use,156.45.55.33,Windows Server 2012 R2 Standard R2,us.maritz.net
+fenwapscs01,,Windows,In Use,156.45.66.83,Windows 2003,us.maritz.net
+fenwapsisd01,,Windows,In Use,156.45.66.228,Windows 2008 R2,us.maritz.net
+fenwapsisp03,,Windows,De-Installed,192.168.10.206,,
+fenwapsmp02,,Windows,In Use,156.45.50.236,Windows 2003,us.maritz.net
+fenwaptfsd08,,Windows,In Use,172.19.23.82,Windows Server 2012 Standard,us.maritz.net
+fenwaptfsd09,,Windows,In Use,156.45.66.134,Windows Server 2012 Standard,us.maritz.net
+fenwaptfsp03,,Windows,Decommissioned,172.19.23.26,Windows 2008 R2,us.maritz.net
+fenwaptfsp04,,Windows,Decommissioned,172.19.23.35,Windows 2008 R2,us.maritz.net
+fenwaptfsp05,,Windows,Decommissioned,156.45.54.34,Windows 2008 R2,us.maritz.net
+fenwaptfsp06,,Windows,Decommissioned,156.45.54.128,Windows 2008 R2,us.maritz.net
+fenwaptfsp07,,Windows,In Use,172.19.23.69,Windows Server 2012 Standard,us.maritz.net
+fenwaptfsp08,,Windows,In Use,156.45.54.36,Windows Server 2012 Standard,us.maritz.net
+fenwaptfsp09,,Windows,In Use,172.19.23.90,Windows Server 2012 Standard,us.maritz.net
+fenwapucmdbd03,,Windows,In Use,156.45.55.117,Windows 2008 R2,us.maritz.net
+fenwapucmdbp01,,Windows,In Use,156.45.55.227,Windows 2003,us.maritz.net
+fenwapucmdbp02,,Windows,In Use,156.45.55.16,Windows 2003,us.maritz.net
+fenwapucmdbp04,,Windows,In Use,172.19.9.22,Windows 2008 R2,us.maritz.net
+fenwapucmdbs01,,Windows,In Use,172.19.9.21,Windows 2008 R2,us.maritz.net
+FENWAPWPMP03,,Windows,In Use,10.32.128.159,,
+fenwdbmmp01,,Windows,In Use,172.19.6.82,Windows 2008 R2,us.maritz.net
+fenwdsp01,,Windows,In Use,156.45.65.62,Windows Server 2012 R2 Standard R2,us.maritz.net
+fenwdsp02,,Windows,In Use,156.45.65.51,,
+fenwebcsid01,,Windows,In Use,156.45.66.51,Windows 2008 R2,us.maritz.net
+fenwebcsip01,,Windows,Decommissioned,192.168.11.187,Windows 2003,mneti.local
+fenwebcsip02,,Windows,In Use,192.168.11.114,Windows 2008 R2,mneti.local
+fenwebcsis01,,Windows,In Use,192.168.11.191,Windows 2008 R2,mneti.local
+Fenwebdmmp01,,Appliance,De-Installed,156.45.236.88,,
+fenwebmcp05,,Windows,Decommissioned,192.168.30.81,Windows 2003,csw.maritzcs
+fenwebmcp06,,Windows,Decommissioned,192.168.30.82,Windows 2003,csw.maritzcs
+fenwebmcp07,,Windows,In Use,192.168.10.244,Windows 2003,mneti.local
+fenwebmcp08,,Windows,In Use,192.168.10.245,Windows 2003,mneti.local
+fenwebmcp10,,Windows,In Use,192.168.21.25,Windows 2003,mneti.local
+fenwebmcp11,,Windows,In Use,192.168.12.210,Windows 2003,mneti.local
+fenwebmcp12,,Windows,In Use,192.168.12.231,Windows 2003,mneti.local
+fenwebmcp13,,Windows,In Use,192.168.11.210,Windows 2003,mneti.local
+fenwebmcp14,,Windows,In Use,192.168.11.196,Windows 2003,mneti.local
+fenwebmcp15,,Windows,In Use,192.168.10.66,Windows 2003,mneti.local
+fenwebmcp18,,Windows,In Use,192.168.20.70,Windows 2003,mneti.local
+fenwebmcp19,,Windows,In Use,192.168.20.86,Windows 2003,mneti.local
+fenwebmcp20,,Windows,In Use,192.168.20.87,Windows 2003,mneti.local
+fenwebmcp21,,Windows,In Use,192.168.21.46,Windows 2008 R2,mneti.local
+fenwebmcp22,,Windows,In Use,192.168.21.43,Windows 2008 R2,mneti.local
+fenwebmcp23,mpni.local,Windows,In Use,192.168.238.78,Windows 2008 R2,mpni.local
+fenwebmcp24,mpni.local,Windows,In Use,192.168.238.79,Windows 2008 R2,mpni.local
+fenwebmcp25,,Windows,In Use,192.168.20.73,Windows 2008 R2,mneti.local
+fenwebmcp26,,Windows,In Use,192.168.20.74,Windows 2008 R2,mneti.local
+fenwebmcp27,,Windows,In Use,192.168.10.58,Windows 2008 R2,mneti.local
+fenwebmcp28,,Windows,In Use,192.168.10.59,Windows 2008 R2,mneti.local
+fenwebmcp29,,Windows,In Use,192.168.11.125,Windows 2008 R2,mneti.local
+fenwebmcp30,,Windows,In Use,192.168.11.102,Windows 2008 R2,mneti.local
+fenwebmcp31,,Windows,In Use,192.168.12.94,Windows 2003,mneti.local
+fenwebmcp32,,Windows,In Use,192.168.12.95,Windows 2003,mneti.local
+fenwebmcp33,,Windows,In Use,192.168.12.99,Windows 2003,mneti.local
+fenwebmcp36,,Windows,In Use,192.168.12.107,Windows Server 2012 R2 Standard R2,mneti.local
+FENWEBMCS01,,Windows,Build/Rebuild,,,
+fenwebmcs02,,Windows,De-Installed,192.168.30.71,Windows 2003,csw.maritzcs
+fenwebmcs03,,Windows,In Use,192.168.21.125,Windows 2003,mneti.local
+fenwebmcs04,,Windows,In Use,192.168.21.103,Windows 2003,mneti.local
+fenwebmcs05,,Windows,In Use,192.168.21.34,Windows 2008 R2,mneti.local
+fenwebmcs06,,Windows,In Use,192.168.21.116,Windows 2008 R2,mneti.local
+fenwebmcs07,,Windows,In Use,192.168.11.109,Windows 2008 R2,mneti.local
+fenwebmcs08,,Windows,In Use,192.168.20.65,Windows Server 2012 R2 Standard R2,mneti.local
+fenwebmgd04,,Windows,In Use,156.45.66.151,Windows Server 2012 Standard,us.maritz.net
+fenwebmgd22,,Windows,In Use,156.45.66.205,Windows 2008 R2,us.maritz.net
+fenwebmgd25,,Windows,In Use,172.19.23.37,Windows Server 2012 Standard,us.maritz.net
+fenwebmgd26,,Windows,In Use,172.19.8.27,Windows 2008 R2,us.maritz.net
+fenwebmgd27,,Windows,In Use,156.45.54.51,Windows 2008 R2,us.maritz.net
+fenwebmgd28,,Windows,In Use,156.45.66.135,Windows Server 2012 Standard,us.maritz.net
+fenwebmgd29,,Windows,In Use,156.45.50.162,Windows 2008 R2,us.maritz.net
+fenwebmgmp03,,Windows,In Use,192.168.21.229,Windows 2003,mneti.local
+fenwebmgmp04,,Windows,In Use,156.45.55.51,Windows 2003,us.maritz.net
+fenwebmgp43,,Windows,In Use,156.45.55.232,Windows Server 2012 R2 Standard R2,us.maritz.net
+fenwebmgp45,,Windows,In Use,156.45.54.158,Windows Server 2012 R2 Standard R2,us.maritz.net
+fenwebmgp46,,Windows,In Use,192.168.11.178,Windows 2003,mneti.local
+fenwebmgp47,,Windows,In Use,156.45.54.170,Windows Server 2012 R2 Standard R2,us.maritz.net
+fenwebmgp48,,Windows,In Use,156.45.54.109,Windows 2003,us.maritz.net
+fenwebmgp49,,Windows,In Use,192.168.236.76,Windows 2003,WORKGROUP
+fenwebmgp50,,Windows,De-Installed,172.19.8.35,Windows 2003,us.maritz.net
+fenwebmgp55,,Windows,In Use,156.45.55.42,Windows Server 2012 R2 Standard R2,us.maritz.net
+fenwebmgp62,,Windows,In Use,172.19.8.30,Windows Server 2012 R2 Standard R2,us.maritz.net
+fenwebmgp63,,Windows,To Be Disposed - AM,156.45.51.4,,
+fenwebmgp65,,Windows,To Be Disposed - AM,156.45.51.6,,
+fenwebmgp71,,Windows,In Use,172.19.23.23,Windows 2008 R2,us.maritz.net
+fenwebmgp73,,Windows,In Use,172.19.23.13,Windows 2008 R2,us.maritz.net
+fenwebmgp74,,Windows,In Use,172.19.23.24,Windows 2008 R2,us.maritz.net
+fenwebmgp75,,Windows,In Use,172.19.8.26,Windows 2008 R2,us.maritz.net
+fenwebmgp76,,Windows,In Use,172.19.8.25,Windows 2008 R2,us.maritz.net
+fenwebmgp77,,Windows,In Use,156.45.55.155,Windows 2003,us.maritz.net
+fenwebmgp78,,Windows,In Use,172.17.5.25,Windows 2008 R2,mpn.local
+fenwebmgp79,,Windows,In Use,172.17.5.26,Windows 2008 R2,mpn.local
+fenwebmgp81,,Windows,In Use,172.19.23.53,Windows Server 2012 Standard,us.maritz.net
+fenwebmgp82,,Windows,In Use,172.19.23.46,Windows Server 2012 Standard,us.maritz.net
+fenwebmgp83,,Windows,In Use,172.19.23.47,Windows Server 2012 Standard,us.maritz.net
+fenwebmgp84,,Windows,In Use,192.168.21.171,,
+fenwebmgp85,,Windows,In Use,172.19.8.68,Windows 2008 R2,us.maritz.net
+fenwebmgp86,,Windows,In Use,156.45.54.133,Windows 2008 R2,us.maritz.net
+fenwebmgp87,,Windows,In Use,172.19.8.49,Windows 2008 R2,us.maritz.net
+fenwebmgp88,,Windows,In Use,172.19.8.51,Windows 2008 R2,us.maritz.net
+fenwebmgp89,,Windows,In Use,156.45.55.105,Windows 2008 R2,us.maritz.net
+fenwebmgp90,,Windows,Build/Rebuild,156.45.54.106,Windows 2008 R2,us.maritz.net
+fenwebmgp91,,Windows,Build/Rebuild,156.45.54.117,Windows 2008 R2,us.maritz.net
+fenwebmgs07,,Windows,In Use,192.168.21.75,Windows Server 2012 R2 Standard R2,mneti.local
+fenwebmgs13,,Windows,In Use,156.45.54.238,Windows Server 2012 R2 Standard R2,us.maritz.net
+fenwebmgs16,,Windows,In Use,172.19.23.22,Windows 2008 R2,us.maritz.net
+fenwebmgs19,,Windows,In Use,172.19.23.40,Windows Server 2012 Standard,us.maritz.net
+fenwebmgs20,,Windows,In Use,172.19.23.41,Windows Server 2012 Standard,us.maritz.net
+fenwebmgs21,,Windows,In Use,192.168.20.31,Windows Server 2012 R2 Standard R2,mneti.local
+fenwebmgs22,mneti.local,Windows,In Use,192.168.20.32,Windows 2008 R2,mneti.local
+fenwebmgt03,,Windows,In Use,156.45.66.86,Windows 2003,us.maritz.net
+fenwebmld02,,Windows,In Use,156.45.66.84,Windows 2003,us.maritz.net
+fenwebmld03,,Windows,In Use,156.45.66.45,Windows 2003,us.maritz.net
+fenwebmlmd09,,Windows,In Use,156.45.66.199,Windows 2003,us.maritz.net
+fenwebmlmd10,maritz.com,Windows,In Use,156.45.66.231,Windows 2003,us.maritz.net
+fenwebmlmd11,,Windows,Decommissioned,156.45.66.240,Windows 2003,us.maritz.net
+fenwebmlmd16,,Windows,In Use,192.168.21.89,Windows 2008 R2,mneti.local
+fenwebmlmp106,,Windows,In Use,156.45.54.39,Windows 2003,us.maritz.net
+fenwebmlmp110,,Windows,In Use,156.45.55.69,Windows 2003,us.maritz.net
+fenwebmlmp114,,Windows,In Use,192.168.20.58,Windows 2003,mneti.local
+fenwebmlmp115,,Windows,In Use,156.45.59.67,Windows 2003,mnete.local
+fenwebmlmp116,,Windows,In Use,156.45.59.68,Windows 2003,mnete.local
+fenwebmlmp118,mneti.local,Windows,In Use,192.168.21.226,Windows 2008 R2,mneti.local
+fenwebmlmp29,,Windows,In Use,192.168.20.62,Windows 2003,mneti.local
+fenwebmlmp30,,Windows,In Use,192.168.20.63,Windows 2003,mneti.local
+fenwebmlmp506,,Windows,In Use,192.168.10.86,Windows 2003,mneti.local
+fenwebmlmp507,,Windows,In Use,192.168.10.87,Windows 2003,mneti.local
+fenwebmlmp508,,Windows,In Use,192.168.10.88,Windows 2003,mneti.local
+fenwebmlmp509,,Windows,In Use,192.168.10.89,Windows 2003,mneti.local
+fenwebmlmp510,,Windows,In Use,192.168.10.94,Windows 2003,mneti.local
+fenwebmlmp511,,Windows,In Use,192.168.10.95,Windows 2003,mneti.local
+fenwebmlmp512,,Windows,In Use,192.168.10.96,Windows 2003,mneti.local
+fenwebmlmp513,,Windows,In Use,192.168.10.97,Windows 2003,mneti.local
+fenwebmlmp514,,Windows,In Use,192.168.10.85,Windows 2003,mneti.local
+fenwebmlmp611,,Windows,De-Installed,192.168.20.88,,
+fenwebmlmp89,,Windows,In Use,192.168.20.57,Windows 2003,mneti.local
+fenwebmlms21,,Windows,In Use,156.45.59.37,Windows 2003,mnete.local
+fenwebmlms26,,Windows,In Use,192.168.21.95,Windows 2003,mneti.local
+fenwebmlms33,,Windows,In Use,192.168.12.75,Windows 2003,mneti.local
+fenwebmlms35,,Windows,In Use,192.168.21.98,Windows 2003,mneti.local
+fenwebmlms38,,Windows,De-Installed,192.168.238.94,Windows 2003,mpni.local
+fenwebmlms41,,Windows,Decommissioned,192.168.20.130,Windows 2003,mneti.local
+fenwebmlms42,,Windows,In Use,192.168.21.168,Windows 2003,mneti.local
+fenwebmlms44,,Windows,De-Installed,192.168.21.151,,
+fenwebmlms45,,Windows,De-Installed,156.45.59.80,,
+fenwebmlms49,,Windows,In Use,192.168.21.78,Windows 2008 R2,mneti.local
+fenwebmlms50,,Windows,Decommissioned,,Windows 2003,WORKGROUP
+fenwebmlp04,,Windows,In Use,192.168.21.206,Windows 2003,mneti.local
+fenwebmlp08,,Windows,In Use,192.168.21.189,Windows 2003,mneti.local
+fenwebmlp10,,Windows,In Use,192.168.21.76,Windows 2003,mneti.local
+fenwebmlp16,,Windows,Decommissioned,192.168.20.192,Windows 2003,mneti.local
+fenwebmls03,,Windows,In Use,192.168.12.96,Windows 2003,mneti.local
+fenwebmls04,mneti.local,Windows,In Use,192.168.12.78,Windows 2008 R2,mneti.local
+fenwebmmd01,,Windows,In Use,156.45.66.10,Windows 2008 R2,us.maritz.net
+fenwebmmd02,,Windows,In Use,156.45.66.103,Windows 2003,us.maritz.net
+fenwebmmd04,,Windows,In Use,156.45.66.88,Windows 2008 R2,us.maritz.net
+fenwebmmd05,maritzdev.com,Windows,In Use,172.19.4.30,Windows 2008 R2,us.maritz.net
+fenwebmmd06,,Windows,In Use,156.45.66.97,Windows 2008 R2,us.maritz.net
+fenwebmmd08,,Windows,Installed,156.45.66.33,Windows 2008 R2,us.maritz.net
+fenwebmmd09,,Windows,Installed,156.45.66.29,Windows 2008 R2,us.maritz.net
+fenwebmmd10,us.maritz.net,Windows,Build/Rebuild,156.45.66.100,,
+fenwebmmd11,,Windows,Build/Rebuild,156.45.66.107,Windows Server 2012 R2 Standard R2,us.maritz.net
+fenwebmmd12,,Windows,Build/Rebuild,156.45.66.9,Windows Server 2012 R2 Standard R2,us.maritz.net
+fenwebmmp03,,Windows,In Use,192.168.12.55,Windows 2003,mneti.local
+fenwebmmp06,,Windows,In Use,192.168.12.86,Windows 2003,mneti.local
+fenwebmmp07,,Windows,In Use,192.168.12.87,Windows 2003,mneti.local
+fenwebmmp15,,Windows,In Use,192.168.21.182,Windows 2003,mneti.local
+fenwebmmp16,,Windows,In Use,192.168.21.50,Windows 2003,mneti.local
+fenwebmmp17,,Windows,In Use,192.168.10.92,Windows 2003,mneti.local
+fenwebmmp18,,Windows,In Use,192.168.10.90,Windows 2003,mneti.local
+fenwebmmp22,,Windows,Decommissioned,192.168.238.45,Windows 2003,mpni.local
+fenwebmmp23,,Windows,Decommissioned,192.168.238.46,Windows 2003,mpni.local
+fenwebmmp24,,Windows,In Use,192.168.13.25,Windows 2003,mneti.local
+fenwebmmp28,mneti.local,Windows,In Use,192.168.12.54,Windows 2008 R2,mneti.local
+fenwebmmp29,mneti.local,Windows,In Use,192.168.12.66,Windows 2008 R2,mneti.local
+fenwebmmp30,,Windows,In Use,192.168.238.53,Windows 2008 R2,mpni.local
+fenwebmmp31,,Windows,In Use,192.168.238.54,Windows 2008 R2,mpni.local
+fenwebmmp32,,Windows,In Use,192.168.238.55,Windows 2008 R2,mpni.local
+fenwebmmp33,mpne.local,Windows,In Use,156.45.69.28,Windows 2008 R2,mpne.local
+fenwebmmp34,mpne.local,Windows,In Use,156.45.69.29,Windows 2008 R2,mpne.local
+fenwebmmp35,mneti.local,Windows,In Use,192.168.20.84,Windows 2008 R2,mneti.local
+fenwebmmp36,mneti.local,Windows,In Use,192.168.12.48,Windows 2008 R2,mneti.local
+fenwebmmp37,mneti.local,Windows,In Use,192.168.12.43,Windows 2008 R2,mneti.local
+fenwebmmp39,,Windows,In Use,192.168.20.64,Windows 2008 R2,mneti.local
+fenwebmmp40,,Windows,In Use,192.168.12.53,Windows 2008 R2,mneti.local
+fenwebmmp41,mneti.local,Windows,In Use,192.168.12.44,Windows 2008 R2,mneti.local
+fenwebmmp49,,Windows,In Use,192.168.12.117,Windows 2008 R2,mneti.local
+fenwebmmp50,mneti.local,Windows,In Use,192.168.12.118,Windows 2008 R2,mneti.local
+fenwebmmp51,,Windows,In Use,192.168.12.119,Windows 2008 R2,mneti.local
+fenwebmmp52,,Windows,In Use,156.45.54.55,Windows 2008 R2,us.maritz.net
+fenwebmmp53,,Windows,In Use,156.45.54.23,Windows 2008 R2,us.maritz.net
+fenwebmmp55,,Windows,In Use,156.45.59.27,Windows 2008 R2,mnete.local
+fenwebmmp56,,Windows,In Use,156.45.50.77,Windows Server 2012 R2 Standard R2,us.maritz.net
+fenwebmmp57,mpni.local,Windows,In Use,192.168.238.57,Windows 2008 R2,mpni.local
+fenwebmmp58,mpni.local,Windows,In Use,192.168.238.58,Windows 2008 R2,mpni.local
+fenwebmmp59,mneti.local,Windows,In Use,192.168.20.68,Windows Server 2012 R2 Standard R2,mneti.local
+fenwebmmp60,mneti.local,Windows,In Use,192.168.20.69,Windows Server 2012 R2 Standard R2,mneti.local
+fenwebmmp61,mpni.local,Windows,In Use,192.168.238.61,Windows Server 2012 R2 Standard R2,mpni.local
+fenwebmmp62,,Windows,In Use,192.168.10.41,,
+fenwebmmp63,,Windows,In Use,192.168.10.43,,
+fenwebmmp64,mpni.local,Windows,In Use,192.168.238.62,Windows Server 2012 R2 Standard R2,mpni.local
+fenwebmmp65,,Windows,Build/Rebuild,172.19.6.33,,
+fenwebmms08,,Windows,In Use,192.168.21.202,Windows 2003,mneti.local
+fenwebmms10,,Windows,In Use,192.168.238.72,Windows 2008 R2,mpni.local
+fenwebmms11,,Windows,In Use,192.168.238.73,Windows 2008 R2,mpni.local
+fenwebmms12,mpne.local,Windows,In Use,156.45.69.31,Windows 2008 R2,mpne.local
+fenwebmms13,mpne.local,Windows,In Use,156.45.69.32,Windows 2008 R2,mpne.local
+fenwebmms14,mneti.local,Windows,In Use,192.168.20.49,Windows 2008 R2,mneti.local
+fenwebmms15,mneti.local,Windows,In Use,192.168.20.85,Windows 2008 R2,mneti.local
+fenwebmms16,,Windows,In Use,192.168.21.45,Windows 2003,mneti.local
+fenwebmms19,,Windows,In Use,156.45.54.16,Windows 2008 R2,us.maritz.net
+fenwebmms20,,Windows,In Use,192.168.21.47,Windows Server 2012 R2 Standard R2,mneti.local
+fenwebmms21,,Windows,In Use,192.168.20.40,Windows Server 2012 R2 Standard R2,mneti.local
+fenwebmms23,,Windows,Build/Rebuild,192.168.20.133,Windows Server 2012 R2 Standard R2,mneti.local
+fenwebmms24,,Windows,Build/Rebuild,192.168.12.72,,
+fenwebmpd07,,Windows,In Use,156.45.66.143,Windows 2003,us.maritz.net
+fenwebmpd15,,Windows,In Use,156.45.66.185,Windows 2003,us.maritz.net
+fenwebmpd16,,Windows,In Use,156.45.66.40,Windows 2003,us.maritz.net
+fenwebmrd12,,Windows,In Use,156.45.66.233,Windows 2003,us.maritz.net
+fenwebmrd17,,Windows,In Use,156.45.66.95,Windows 2003,us.maritz.net
+fenwebmrd18,,Windows,In Use,156.45.66.206,Windows 2003,us.maritz.net
+fenwebmrd19,,Windows,In Use,156.45.66.245,Windows 2008 R2,us.maritz.net
+fenwebmrd21,us.maritz.net,Windows,In Use,156.45.66.128,Windows 2008 R2,us.maritz.net
+fenwebmrd24,us.maritz.net,Windows,In Use,156.45.66.36,Windows 2008 R2,us.maritz.net
+fenwebmrd25,,Windows,Build/Rebuild,156.45.66.42,,
+FENWEBMRD26,,Windows,Build/Rebuild,156.45.66.32,,
+FENWEBMRD27,,Windows,Build/Rebuild,156.45.66.81,,
+fenwebmrd28,,Windows,In Use,156.45.66.136,Windows Server 2012 R2 Standard R2,us.maritz.net
+fenwebmrp100,,Windows,In Use,172.19.5.60,Windows 2003,us.maritz.net
+fenwebmrp101,,Windows,In Use,192.168.20.71,Windows 2003,mneti.local
+fenwebmrp102,,Windows,In Use,192.168.20.72,Windows 2003,mneti.local
+fenwebmrp103,mneti.local,Windows,In Use,192.168.20.59,Windows 2008 R2,mneti.local
+fenwebmrp104,mneti.local,Windows,In Use,192.168.20.60,Windows 2008 R2,mneti.local
+fenwebmrp105,,Windows,In Use,172.19.6.25,Windows 2003,us.maritz.net
+fenwebmrp108,,Windows,In Use,192.168.21.198,Windows 2008 R2,mneti.local
+fenwebmrp110,,Windows,In Use,172.19.6.24,Windows 2008 R2,us.maritz.net
+fenwebmrp111,,Windows,Decommissioned,192.168.21.31,Windows 2003,mneti.local
+fenwebmrp112,,Windows,Decommissioned,192.168.21.32,Windows 2003,mneti.local
+fenwebmrp117,,Windows,In Use,192.168.11.54,Windows 2008 R2,mneti.local
+fenwebmrp118,mneti.local,Windows,In Use,192.168.20.48,Windows 2008 R2,mneti.local
+fenwebmrp119,mneti.local,Windows,In Use,192.168.20.53,Windows 2008 R2,mneti.local
+fenwebmrp120,,Windows,In Use,192.168.20.54,Windows 2008 R2,mneti.local
+fenwebmrp121,,Windows,In Use,192.168.20.55,Windows 2008 R2,mneti.local
+fenwebmrp122,mneti.local,Windows,In Use,192.168.20.75,Windows 2008 R2,mneti.local
+fenwebmrp123,,Windows,In Use,192.168.20.76,Windows 2008 R2,mneti.local
+fenwebmrp126,mnete.local,Windows,In Use,156.45.59.45,,
+fenwebmrp127,,Windows,Build/Rebuild,192.168.11.34,Windows Server 2012 R2 Standard R2,mneti.local
+fenwebmrp128,,Windows,In Use,192.168.11.90,Windows Server 2012 R2 Standard R2,mneti.local
+fenwebmrp129,mneti.local,Windows,Build/Rebuild,192.168.20.15,Windows Server 2012 R2 Standard R2,mneti.local
+fenwebmrp130,mneti.local,Windows,Build/Rebuild,192.168.20.16,Windows Server 2012 R2 Standard R2,mneti.local
+fenwebmrp131,,Windows,Build/Rebuild,192.168.11.109,,
+fenwebmrp132,,Windows,Build/Rebuild,192.168.21.44,,
+fenwebmrp133,,Windows,Build/Rebuild,192.168.12.56,Windows Server 2012 R2 Standard R2,mneti.local
+fenwebmrp134,,Windows,Build/Rebuild,192.168.12.52,Windows Server 2012 R2 Standard R2,mneti.local
+fenwebmrp135,,Windows,Build/Rebuild,172.19.5.46,Windows Server 2012 R2 Standard R2,us.maritz.net
+fenwebmrp136,,Windows,Build/Rebuild,192.168.11.61,,
+fenwebmrp137,,Windows,Build/Rebuild,192.168.10.39,Windows Server 2012 R2 Standard R2,mneti.local
+fenwebmrp138,,Windows,Build/Rebuild,192.168.10.40,Windows Server 2012 R2 Standard R2,mneti.local
+fenwebmrp139,,Windows,Build/Rebuild,172.19.6.55,Windows Server 2012 R2 Standard R2,us.maritz.net
+fenwebmrp140,,Windows,Build/Rebuild,192.168.11.22,,
+fenwebmrp141,,Windows,Build/Rebuild,192.168.20.51,,
+fenwebmrp142,,Windows,Build/Rebuild,156.45.55.157,,
+fenwebmrp43,,Windows,In Use,192.168.11.189,Windows 2003,mneti.local
+fenwebmrp60,,Windows,To Be Disposed - AM,192.168.11.160,Windows 2003,mneti.local
+fenwebmrp61,,Windows,In Use,156.45.55.93,Windows 2003,us.maritz.net
+fenwebmrp62,,Windows,In Use,192.168.11.76,Windows 2003,mneti.local
+fenwebmrp63,,Windows,In Use,192.168.21.126,Windows 2003,mneti.local
+fenwebmrp64,,Windows,In Use,192.168.21.127,Windows 2003,mneti.local
+fenwebmrp65,,Windows,In Use,192.168.21.156,Windows 2003,mneti.local
+fenwebmrp68,,Windows,In Use,192.168.10.106,Windows 2003,mneti.local
+fenwebmrp69,,Windows,In Use,192.168.10.107,Windows 2003,mneti.local
+fenwebmrp71,,Windows,In Use,192.168.11.225,Windows 2003,mneti.local
+fenwebmrp76,,Windows,In Use,192.168.11.167,Windows 2003,mneti.local
+fenwebmrp79,,Windows,In Use,192.168.12.122,Windows 2003,mneti.local
+fenwebmrp80,,Windows,In Use,192.168.12.123,Windows 2003,mneti.local
+fenwebmrp84,,Windows,In Use,192.168.21.131,Windows 2003,mneti.local
+fenwebmrp87,,Windows,In Use,192.168.11.92,Windows 2003,mneti.local
+fenwebmrp94,,Windows,In Use,156.45.55.101,Windows 2003,us.maritz.net
+fenwebmrp99,,Windows,In Use,192.168.11.67,Windows 2003,mneti.local
+fenwebmrs06,,Windows,In Use,192.168.11.138,Windows 2003,mneti.local
+fenwebmrs08,,Windows,In Use,192.168.21.220,Windows 2003,mneti.local
+fenwebmrs09,,Windows,In Use,192.168.20.223,Windows 2003,mneti.local
+fenwebmrs11,,Windows,In Use,192.168.21.82,Windows 2003,mneti.local
+fenwebmrs12,,Windows,In Use,192.168.11.66,Windows 2003,mneti.local
+fenwebmrs14,,Windows,In Use,192.168.21.194,Windows 2008 R2,mneti.local
+fenwebmrs15,,Windows,In Use,192.168.21.63,Windows 2008 R2,mneti.local
+fenwebmrs16,,Windows,Build/Rebuild,192.168.11.139,Windows Server 2012 R2 Standard R2,mneti.local
+fenwebmrs17,,Windows,Build/Rebuild,192.168.21.96,Windows Server 2012 R2 Standard R2,mneti.local
+fenwebmrs18,,Windows,Build/Rebuild,192.168.20.97,Windows Server 2012 R2 Standard R2,mneti.local
+fenwebmrs19,,Windows,Build/Rebuild,192.168.11.68,Windows Server 2012 R2 Standard R2,mneti.local
+fenwebmrs20,,Windows,Build/Rebuild,192.168.21.35,Windows Server 2012 R2 Standard R2,mneti.local
+fenwebmtd06,us.maritz.net,Windows,In Use,156.45.66.28,Windows 2008 R2,us.maritz.net
+fenwebmtp22,,Windows,Decommissioned,156.45.55.58,Windows 2003,us.maritz.net
+fenwebmtp34,mneti.local,Windows,In Use,192.168.20.88,Windows 2008 R2,mneti.local
+fenwebmtp35,mneti.local,Windows,In Use,192.168.20.89,Windows 2008 R2,mneti.local
+fenwebmtp36,mneti.local,Windows,In Use,192.168.20.156,Windows 2008 R2,mneti.local
+FENWEBMTP43,,Windows,Installed,192.168.20.92,,
+fenwebmts17,us.maritz.net,Windows,In Use,156.45.66.69,Windows 2008 R2,us.maritz.net
+fenwebmts18,mneti.local,Windows,In Use,192.168.21.29,Windows 2008 R2,mneti.local
+fenwebmts19,mneti.local,Windows,In Use,192.168.21.30,Windows 2008 R2,mneti.local
+fenwebmts21,,Windows,Decommissioned,156.45.66.176,,
+fenwebmts21,,Windows,Decommissioned,192.168.11.65,Windows 2008 R2,mneti.local
+fenwebmts22,us.maritz.net,Windows,In Use,156.45.66.140,Windows 2008 R2,us.maritz.net
+FENWEBMTS42,,Windows,Installed,192.168.20.119,,
+FENWEBMTS43,,Windows,Build/Rebuild,,,
+fenwebnicep01,,Windows,In Use,172.18.6.61,Windows 2008 R2,us.maritz.net
+fenwebops05,,Windows,In Use,156.45.54.70,Windows 2003,WORKGROUP
+fenwebops09,,Windows,In Use,156.45.54.104,Windows 2003,us.maritz.net
+fenwebops20,,Windows,In Use,192.168.20.27,Windows 2003,mneti.local
+fenwebqtpp01,,Windows,In Use,172.19.7.26,Windows 2003,us.maritz.net
+fenwebrewd801v,maritz.com,Windows,In Use,156.45.55.217,Windows 2003,us.maritz.net
+fenwebscd01,,Windows,In Use,156.45.66.226,Windows 2003,us.maritz.net
+fenwebscs01,,Windows,In Use,156.45.66.139,Windows 2003,us.maritz.net
+fenwebtdp01_retired,,Windows,De-Installed,156.45.50.49,,
+fenwins01,,Windows,In Use,156.45.65.57,Windows 2003,us.maritz.net
+fenxenappd052,,Windows,In Use,156.45.82.250,Windows 2008 R2,us.maritz.net
+fenxenappd053,,Windows,In Use,156.45.82.251,Windows 2008 R2,us.maritz.net
+fenxenappd056,,Windows,Build/Rebuild,156.45.82.228,Windows 2008 R2,us.maritz.net
+fenxenappd057,,Windows,Build/Rebuild,156.45.82.252,Windows 2008 R2,us.maritz.net
+fenxenappp020,,Windows,In Use,10.55.1.20,Windows 2008 R2,us.maritz.net
+fenxenappp021,,Windows,Build/Rebuild,10.55.1.21,Windows 2008 R2,us.maritz.net
+fenxenappp029,,Windows,Build/Rebuild,156.45.82.29,Windows 2008 R2,us.maritz.net
+fenxenappp030,,Windows,In Use,156.45.82.30,Windows 2008 R2,us.maritz.net
+fenxenappp031,,Windows,In Use,156.45.82.31,Windows 2008 R2,us.maritz.net
+fenxenappp032,,Windows,In Use,156.45.82.32,Windows 2008 R2,us.maritz.net
+fenxenappp033,,Windows,In Use,156.45.82.33,Windows 2008 R2,us.maritz.net
+fenxenappp034,,Windows,In Use,156.45.82.34,Windows 2008 R2,us.maritz.net
+fenxenappp035,,Windows,In Use,156.45.82.35,Windows 2008 R2,us.maritz.net
+fenxenappp036,,Windows,In Use,156.45.82.36,Windows 2008 R2,us.maritz.net
+fenxenappp037,,Windows,Build/Rebuild,156.45.82.37,Windows 2008 R2,us.maritz.net
+fenxenappp038,,Windows,Build/Rebuild,156.45.82.38,Windows 2008 R2,us.maritz.net
+fenxenappp039,,Windows,In Use,156.45.82.39,Windows 2008 R2,us.maritz.net
+fenxenappp040,,Windows,In Use,156.45.82.40,,
+fenxenappp041,,Windows,In Use,156.45.82.41,,
+fenxenappp042,,Windows,In Use,156.45.82.42,,
+fenxenappp043,,Windows,In Use,156.45.82.43,,
+fenxenappp044,,Windows,In Use,156.45.82.44,,
+fenxenappp045,,Windows,In Use,156.45.82.45,Windows 2008 R2,us.maritz.net
+fenxenappp046,,Windows,In Use,156.45.82.46,,
+fenxenappp060,,Windows,Build/Rebuild,156.45.82.60,Windows 2008 R2,us.maritz.net
+fenxenappp061,,Windows,Build/Rebuild,156.45.82.61,Windows 2008 R2,us.maritz.net
+fenxenappp070,,Windows,In Use,156.45.82.70,Windows 2008 R2,us.maritz.net
+fenxenappp071,,Windows,In Use,156.45.82.71,Windows 2008 R2,us.maritz.net
+fenxenappp072,,Windows,In Use,156.45.82.72,Windows 2008 R2,us.maritz.net
+fenxenappp073,,Windows,In Use,156.45.82.73,Windows 2008 R2,us.maritz.net
+fenxenappp076,,Windows,In Use,156.45.82.76,,
+FENXENAPPP077,,Windows,In Use,156.45.82.77,,
+fenxenappp080,,Windows,Decommissioned,10.55.1.80,Windows 2008 R2,us.maritz.net
+fenxenappp081,,Windows,In Use,10.55.1.81,Windows 2008 R2,us.maritz.net
+fenxenappp082,,Windows,In Use,10.55.1.82,Windows 2008 R2,us.maritz.net
+fenxenappp083,,Windows,In Use,10.55.1.83,Windows 2008 R2,us.maritz.net
+fenxenappp084,,Windows,In Use,10.55.1.84,Windows 2008 R2,us.maritz.net
+fenxenappp086,,Windows,In Use,10.55.1.86,Windows 2008 R2,us.maritz.net
+fenxenappp103,,Windows,In Use,156.45.82.103,Windows 2008 R2,us.maritz.net
+fenxenappp105,,Windows,In Use,156.45.82.105,Windows 2008 R2,us.maritz.net
+fenxenappp108,,Windows,In Use,156.45.82.108,Windows 2008 R2,us.maritz.net
+fenxenappp111,,Windows,In Use,156.45.82.111,Windows 2008 R2,us.maritz.net
+fenxenappp112,,Windows,In Use,156.45.82.112,Windows 2008 R2,us.maritz.net
+fenxenappp113,,Windows,In Use,156.45.82.113,Windows 2008 R2,us.maritz.net
+fenxenappp121,,Windows,Decommissioned,156.45.82.121,Windows 2008 R2,us.maritz.net
+fenxenappp127,,Windows,Build/Rebuild,156.45.82.127,Windows 2008 R2,us.maritz.net
+fenxenappp139,,Windows,Build/Rebuild,,Windows 2008 R2,us.maritz.net
+fenxenappp140,,Windows,In Use,156.45.82.140,Windows 2008 R2,us.maritz.net
+fenxenappp141,,Windows,In Use,156.45.82.141,Windows 2008 R2,us.maritz.net
+fenxenappp142,,Windows,In Use,156.45.82.142,Windows 2008 R2,us.maritz.net
+fenxenappp143,,Windows,In Use,156.45.82.143,Windows 2008 R2,us.maritz.net
+fenxenappp144,,Windows,In Use,156.45.82.144,Windows 2008 R2,us.maritz.net
+fenxenappp146,,Windows,In Use,156.45.82.146,,
+fenxenappp147,,Windows,In Use,156.45.82.147,,
+fenxenappp148,,Windows,In Use,156.45.82.148,,
+fenxenappp149,,Windows,In Use,156.45.82.149,,
+fenxenappp150,,Windows,In Use,156.45.82.150,,
+fenxenappp151,,Windows,In Use,156.45.82.151,,
+fenxenappp152,,Windows,In Use,156.45.82.152,,
+fenxenappp153,,Windows,In Use,156.45.82.153,,
+fenxenappp154,,Windows,In Use,156.45.82.154,,
+fenxenappp155,,Windows,In Use,156.45.82.155,Windows 2008 R2,us.maritz.net
+fenxenappp156,,Windows,In Use,156.45.82.156,,
+fenxenappp157,,Windows,In Use,156.45.82.157,,
+fenxenappp158,,Windows,In Use,156.45.82.158,,
+fenxenappp159,,Windows,In Use,156.45.82.159,,
+fenxenappp160,,Windows,In Use,156.45.82.160,,
+fenxenappp161,,Windows,In Use,156.45.82.161,,
+fenxenappp162,,Windows,In Use,156.45.82.162,,
+fenxenappp163,,Windows,In Use,156.45.82.163,,
+fenxenappp164,,Windows,In Use,156.45.82.164,,
+fenxenappp165,,Windows,In Use,156.45.82.165,,
+fenxenappp166,,Windows,In Use,156.45.82.166,,
+fenxenappp167,,Windows,In Use,156.45.82.167,,
+fenxenappp168,,Windows,In Use,156.45.82.168,,
+fenxenappp169,,Windows,In Use,156.45.82.169,,
+fenxenappp170,,Windows,In Use,156.45.82.170,,
+fenxenappp171,,Windows,In Use,156.45.82.171,,
+fenxenappp172,,Windows,In Use,156.45.82.172,,
+fenxenappp173,,Windows,In Use,156.45.82.173,Windows 2008 R2,us.maritz.net
+fenxenappp183,,Windows,In Use,156.45.82.183,Windows 2008 R2,us.maritz.net
+fenxenappp184,,Windows,In Use,156.45.82.184,Windows 2008 R2,us.maritz.net
+fenxenappp185,,Windows,In Use,156.45.82.185,Windows 2008 R2,us.maritz.net
+fenxenappp186,,Windows,In Use,156.45.82.186,Windows 2008 R2,us.maritz.net
+fenxenappp187,,Windows,In Use,156.45.82.187,,
+fenxenappp188,,Windows,In Use,156.45.82.188,,
+fenxenappp189,,Windows,In Use,156.45.82.189,,
+fenxenappp200,,Windows,Decommissioned,156.45.82.200,Windows 2008 R2,us.maritz.net
+fenxenappp201,,Windows,In Use,156.45.82.201,,
+fenxenappp203,,Windows,In Use,156.45.82.203,,
+fenxenappp210,,Windows,In Use,156.45.82.210,Windows 2008 R2,us.maritz.net
+fenxenappp300,,Windows,In Use,172.18.6.32,,
+fenxenappp301,,Windows,Build/Rebuild,172.18.6.33,Windows 2008 R2,us.maritz.net
+fenxenappp305,,Windows,Build/Rebuild,172.17.5.35,,
+fenxenappp307,,Windows,Build/Rebuild,172.17.5.37,,
+fenxenappp310,,Windows,Decommissioned,172.19.10.31,,
+fenxenappp350,,Windows,In Use,172.19.5.62,Windows 2008 R2,us.maritz.net
+fenxenappp351,,Windows,In Use,172.19.5.63,Windows 2008 R2,us.maritz.net
+fenxenappp400,,Windows,In Use,172.19.31.61,Windows 2008 R2,us.maritz.net
+fenxenddc021,,Windows,Build/Rebuild,156.45.83.21,Windows 2008 R2,us.maritz.net
+fenxenddc022,,Windows,Build/Rebuild,156.45.83.22,Windows 2008 R2,us.maritz.net
+fenxenddcp03,,Windows,Build/Rebuild,156.45.83.20,Windows 2008 R2,us.maritz.net
+fenxenhpdmp01,,Windows,In Use,156.45.82.18,Windows 2008 R2,us.maritz.net
+FENXENINSIGHTP01,,Windows,In Use,156.45.83.23,Windows 2008 R2,us.maritz.net
+fenxenpvsp03,,Windows,Build/Rebuild,156.45.82.13,Windows 2008 R2,us.maritz.net
+fenxenpvsp04,,Windows,Build/Rebuild,156.45.82.14,Windows 2008 R2,us.maritz.net
+fenxenstorp01,,Windows,In Use,156.45.82.19,Windows 2008 R2,us.maritz.net
+fenxenstorp02,,Windows,In Use,156.45.83.19,Windows 2008 R2,us.maritz.net
+fenxenstorp03,,Windows,In Use,156.45.83.18,Windows 2008 R2,us.maritz.net
+fenxenstorp04,,Windows,In Use,156.45.82.15,Windows 2008 R2,us.maritz.net
+fenxensvrp03,,XenServer,In Use,172.19.21.42,,
+fenxensvrp04,,XenServer,In Use,172.19.21.43,Windows 2008 R2,us.maritz.net
+FENXENSVRP12,,XenServer,In Use,172.19.21.51,,
+FENXENSVRP13,,XenServer,In Use,172.19.21.52,,
+FENXENSVRP14,,XenServer,In Use,172.19.21.53,,
+FENXENSVRP15,,XenServer,In Use,172.19.21.54,,
+FENXENSVRP16,,XenServer,In Use,172.19.21.55,,
+FENXENSVRP17,,XenServer,In Use,172.19.21.56,,
+FENXENSVRP18,,XenServer,In Use,172.19.21.57,,
+FENXENSVRP19,,XenServer,In Use,172.19.21.58,,
+FENXENSVRP20,,XenServer,In Use,172.19.21.59,,
+FENXENSVRP21,,XenServer,In Use,172.19.21.60,,
+FENXENSVRP22,,Windows,To Be Re-deployed - AM,172.19.21.61,,
+HAMAPPDIAL01,,Appliance,In Use,213.61.85.203,,
+HigginsLab2,,Windows,To Be Disposed - AM,156.45.54.131,,
+krk002bkup01,,Windows,In Use,10.30.48.18,Windows 2008 R2,us.maritz.net
+krk002offc04,,Windows,In Use,10.30.48.16,Windows Server 2012 R2 Standard R2,us.maritz.net
+krk002sccmp02,,Windows,In Use,10.30.48.17,Windows Server 2012 R2 Standard R2,us.maritz.net
+LABAPPMGP01,,Windows,In Use,10.255.113.94,,
+LABAPPMGP02,,Windows,Installed,10.255.112.55,,
+LABAPPMGP03,,Windows,Build/Rebuild,,,
+labappmgts03,,Windows,In Use,10.255.112.201,,
+LABAPPMSAPPVP01,,Windows,In Use,,,
+LABAPPMSCMP01,,Windows,In Use,10.255.113.71,,
+LABAPPMSCMP02,,Windows,In Use,10.255.113.72,,
+LABAPPMSCMP03,,Windows,In Use,10.255.113.73,,
+LABAPPMSCMP04,,Windows,Build/Rebuild,10.255.113.76,,
+LABAPPMSCMP05,,Windows,Build/Rebuild,10.255.113.80,,
+LABAPPMSKMSP01,,Windows,In Use,10.255.112.50,,
+LABAPPSNSENVP01,,Windows,In Use,10.255.113.91,,
+LABAPPSNSENVP02,,Windows,In Use,10.255.113.93,,
+LABAPPSNSMGMP01,,Windows,In Use,10.255.113.90,,
+labapptst03,,Windows,In Use,10.255.113.42,,
+LABAPPVCP03,,Windows,In Use,10.255.116.155,,
+LABBKUP01,,Windows,In Use,10.255.113.81,,
+LABCLSR106,,Windows,In Use,10.255.113.102,,
+LABDCPCI01,,Windows,In Use,10.255.50.251,,
+LABDCPCI02,,Windows,In Use,10.255.50.252,,
+LABDCRT01,,Windows,In Use,10.255.112.10,,
+LABDCRT02,,Windows,In Use,10.255.112.11,,
+LABDCRT03,,Windows,In Use,10.255.112.12,,
+LABDCUS01,,Windows,In Use,10.255.112.15,,
+LABDCUS02,,Windows,In Use,10.255.112.16,,
+LABDCUS03,,Windows,In Use,10.255.112.17,,
+LABDCUS21,,Windows,In Use,10.255.132.21,,
+LABDCUS22,,Windows,In Use,10.255.132.22,,
+LABDCUS23,,Windows,In Use,10.255.132.23,,
+LABDHCP02,,Windows,In Use,10.255.112.25,,
+LABEXCH04 ,,Windows,Build/Rebuild,10.255.113.50,,
+LABEXCH05,,Windows,In Use,10.255.113.40,,
+labgmgtst01,,Windows,Installed,10.255.116.151,,
+labgmgtst02,,Windows,Installed,10.255.113.229,,
+LABLCS01,,Windows,In Use,10.255.113.80,,
+LABMTA03,,Windows,In Use,10.255.113.47,,
+LABOWA03,,Windows,In Use,10.255.113.48,,
+LABRODCUS01,,Windows,Build/Rebuild,10.255.112.14,,
+LABSQLMGP02,,Windows,In Use,10.255.113.150,,
+labsqlmgp04,,Windows,In Use,10.255.113.152,,
+labsqlmgtsp03,,Windows,In Use,10.255.113.155,,
+labsqlmgtsp07,,Windows,In Use,10.255.113.26,,
+labsqlmgtsp08,,,In Use,10.255.113.233,,
+labsqlmgtsp09,,,In Use,10.255.113.242,,
+labsqlmgtsp10,,,In Use,10.255.113.241,,
+LABSQLVCP03,,Windows,In Use,10.255.116.156,,
+labtsvr1001,,Windows,Build/Rebuild,10.255.112.180,,
+LABWEBMRD01,,Windows,Build/Rebuild,10.255.113.39,,
+LABWEBMRD02,,Windows,Build/Rebuild,10.255.113.21,,
+LABWEBMRD03,,Windows,Build/Rebuild,10.255.113.20,,
+LABWINS01,,Windows,In Use,10.255.112.26,,
+mau001apdcfmp01,,Windows,To Be Disposed - AM,10.30.14.34,,
+mau001appapvp01,,Windows,In Use,10.30.14.51,Windows 2008 R2,us.maritz.net
+mau001appdial01,,Windows,De-Installed,10.30.14.150,Windows 2003,us.maritz.net
+mau001appekmp02,,Windows,In Use,172.28.4.17,Windows Server 2012 Standard,us.maritz.net
+mau001appimg01,,Windows,In Use,10.30.14.200,Windows 2003,us.maritz.net
+mau001appimg02,,Windows,Build/Rebuild,10.30.14.202,Windows Server 2012 R2 Standard R2,us.maritz.net
+mau001appmrp01,,Windows,In Use,10.30.14.106,Windows 2003,us.maritz.net
+mau001apppolp01,,Windows,In Use,10.30.14.38,Windows 2003,us.maritz.net
+mau001apppolp02,,Windows,In Use,10.30.14.112,Windows 2008 R2,us.maritz.net
+mau001apppols01,,Windows,In Use,10.30.14.111,Windows 2003,us.maritz.net
+mau001appsasp01,,Windows,In Use,10.30.14.68,Windows 2008 R2,us.maritz.net
+mau001apsccmp01,,Windows,In Use,10.30.14.50,Windows 2008 R2,us.maritz.net
+mau001bkup01,,Windows,In Use,10.30.14.15,Windows 2008 R2,us.maritz.net
+mau001bkup02,,Windows,In Use,172.27.13.30,Windows 2008 R2,mpn.local
+mau001dcus01,,Windows,In Use,10.30.14.54,Windows 2008 R2,us.maritz.net
+mau001exch06,,Windows,Installed,10.30.214.44,Windows Server 2012 R2 Standard R2,us.maritz.net
+mau001exch07,,Windows,Installed,10.30.214.34,Windows Server 2012 R2 Standard R2,us.maritz.net
+mau001mta03,,Windows,De-Installed,10.30.214.25,Windows 2008 R2,us.maritz.net
+mau001mta04,,Windows,De-Installed,10.30.214.24,Windows 2008 R2,us.maritz.net
+mau001offc01,,Windows,In Use,10.30.14.52,Windows 2008 R2,us.maritz.net
+mau001offcprn01,,Windows,Decommissioned,10.30.14.203,Windows 2003,us.maritz.net
+mau001ris01,,Windows,In Use,10.30.14.102,Windows 2003,us.maritz.net
+mau001sqlmgtp01,,Windows,In Use,10.30.14.99,Windows 2008 R2,us.maritz.net
+mau001telrogp01,,Windows,In Use,172.29.1.30,Windows 2003,
+mau001telsqlp01,,Windows,In Use,172.29.1.46,Windows 2003,
+MAU001TELVRUP01,,Windows,In Use,172.29.1.31,,
+MAU001TELVRUP02,,Windows,In Use,172.29.1.32,,
+mau001telvxmp01,,Windows,In Use,172.29.1.33,Windows 2003,
+mau001web01,,Windows,In Use,10.30.14.18,Windows 2003,us.maritz.net
+mau001web02,,Windows,Build/Rebuild,10.30.14.118,Windows Server 2012 R2 Standard R2,us.maritz.net
+mau001webdev01,,Windows,In Use,10.30.14.204,Windows 2003,us.maritz.net
+mau001xenappp30,,Windows,In Use,10.30.14.115,Windows 2008 R2,us.maritz.net
+mau001xenappp51,,Windows,In Use,10.30.20.51,,
+MAU001XENSVRP01,,XenServer,In Use,172.28.5.58 ,,
+MAU001XENSVRP02,,XenServer,In Use,172.28.5.59,,
+mauappvcp03,,Windows,In Use,172.28.5.100,Windows Server 2012 R2 Standard R2,us.maritz.net
+mauappvsrp01,,Windows,In Use,172.28.5.199,Windows Server 2012 R2 Standard R2,us.maritz.net
+maudrappcca101z,,Windows,In Use,172.27.1.20,Windows Server 2012 R2 Standard R2,mpn.local
+maudrappedp01,,Windows,In Use,172.28.4.36,Windows 2003,us.maritz.net
+maudrappmgt01,,Windows,Installed,10.30.14.109,,
+maudrdcmneti01,,Windows,In Use,192.168.194.251,Windows 2008 R2,mneti.local
+maudrdcmneti02,,Windows,In Use,192.168.194.252,Windows 2008 R2,mneti.local
+maudrdcmpn01,,Windows,In Use,172.27.13.251,Windows 2008 R2,mpn.local
+maudrdcmpn02,,Windows,In Use,172.27.13.252,Windows 2008 R2,mpn.local
+maudrdcrt01,,Windows,In Use,172.28.4.40,Windows 2008 R2,maritz.net
+maudrdcrt02,,Windows,In Use,172.28.4.41,Windows 2008 R2,maritz.net
+maudrdcrt03,,Windows,In Use,172.28.4.42,Windows 2008 R2,maritz.net
+maudrdcus01,,Windows,In Use,172.28.4.45,Windows 2008 R2,us.maritz.net
+maudrdcus02,,Windows,In Use,172.28.4.46,Windows 2008 R2,us.maritz.net
+maudrdcus03,,Windows,In Use,172.28.4.47,Windows 2008 R2,us.maritz.net
+maudrdhcp02,,Windows,In Use,172.28.4.43,Windows Server 2012 R2 Standard R2,us.maritz.net
+maudrftp08,,Windows,In Use,192.168.194.30,Windows 2003,mneti.local
+maudrftp09,,Windows,In Use,172.27.2.253,Windows 2008 R2,mpn.local
+maudrftp10,,Windows,In Use,192.168.194.32,Windows 2008 R2,mneti.local
+maudrftp1001,,Windows,In Use,172.28.1.253,Windows 2003,us.maritz.net
+MAUDRFTP11,,Windows,Build/Rebuild,156.45.169.132,,
+MAUDRFTP12,,Windows,Build/Rebuild,156.45.196.50,,
+MAUDRFTP13,,Windows,Build/Rebuild,192.168.194.13,,
+maudrris01,,Windows,In Use,172.28.4.35,Windows 2003,us.maritz.net
+maudrsqlcsp01,,Windows,In Use,172.28.1.26,Windows 2008 R2,us.maritz.net
+maudrsqlmcp01,,Windows,In Use,172.28.1.24,Windows 2008 R2,us.maritz.net
+maudrsqlmcp03,,Windows,In Use,172.28.1.27,Windows 2008 R2,us.maritz.net
+maudrsqlmcp04,,Windows,In Use,172.28.1.36,Windows 2008 R2,us.maritz.net
+maudrsqlmcp05,,Windows,In Use,172.28.1.29,Windows 2008 R2,us.maritz.net
+maudrsqlmgp01,,Windows,In Use,172.28.1.32,Windows 2008 R2,us.maritz.net
+maudrsqlmlmp01,,Windows,Decommissioned,172.28.1.41,Windows 2003,us.maritz.net
+maudrsqlmmp01,,Windows,In Use,172.28.1.30 ,Windows 2008 R2,us.maritz.net
+maudrsqlmmp02,,Windows,In Use,172.28.1.21,Windows 2008 R2,us.maritz.net
+maudrsqlmmp03,,Windows,In Use,172.28.1.20,Windows 2008 R2,us.maritz.net
+maudrsqlmmp04,,Windows,In Use,172.28.1.56,Windows 2008 R2,us.maritz.net
+maudrsqlmmp05,,Windows,In Use,172.28.1.31,Windows 2008 R2,us.maritz.net
+maudrsqlmmp06,,Windows,In Use,172.28.1.34,Windows 2008 R2,us.maritz.net
+maudrsqlmmp07,,Windows,In Use,172.27.2.30,Windows 2008 R2,mpn.local
+maudrsqlmtp01,,Windows,In Use,172.27.2.170,Windows 2008 R2,mpn.local
+maudrtsvr00,,Windows,Decommissioned,172.28.6.50,Windows 2003,us.maritz.net
+maudrtsvr01,,Windows,Decommissioned,172.28.6.48,Windows 2003,us.maritz.net
+maudrtsvr03,,Windows,In Use,172.28.1.61,Windows 2003,us.maritz.net
+maudrtsvr05,,Windows,In Use,172.27.2.21,Windows 2008 R2,mpn.local
+maudrwapcsip01,,Windows,In Use,172.28.2.28,Windows 2008 R2,us.maritz.net
+maudrwapmcp02,,Windows,In Use,172.28.2.53,Windows 2003,us.maritz.net
+maudrwapmcp03,,Windows,In Use,172.28.2.54,Windows 2003,us.maritz.net
+maudrwapmcp04,,Windows,In Use,172.28.2.55,Windows 2003,us.maritz.net
+maudrwapmcp05,,Windows,In Use,172.27.3.38,Windows 2008 R2,mpn.local
+maudrwapmgp01,,Windows,In Use,172.28.4.52,Windows 2008 R2,us.maritz.net
+maudrwapmlmp01,,Windows,In Use,156.45.158.20,Windows 2003,WORKGROUP
+maudrwapmlmp02,,Windows,In Use,156.45.158.22,Windows 2003,WORKGROUP
+maudrwapmlmp03,,Windows,In Use,156.45.158.24,Windows 2003,WORKGROUP
+maudrwapmmp01,,Windows,In Use,172.28.2.34,Windows 2008 R2,us.maritz.net
+maudrwapmmp02,,Windows,In Use,172.28.2.35,Windows 2008 R2,us.maritz.net
+maudrwapmmp04,,Windows,In Use,172.28.2.27,Windows 2008 R2,us.maritz.net
+maudrwapmmp05,,Windows,In Use,172.28.2.25,Windows 2003,us.maritz.net
+maudrwapmmp07,,Windows,Build/Rebuild,172.28.2.22,Windows Server 2012 R2 Standard R2,us.maritz.net
+maudrwapmmp08,,Windows,In Use,172.28.2.26,Windows Server 2012 R2 Standard R2,us.maritz.net
+maudrwapmmp09,,Windows,In Use,172.27.3.35,Windows Server 2012 R2 Standard R2,mpn.local
+maudrwappopp01,,Windows,Decommissioned,172.27.16.28,Windows 2003,mpn.local
+maudrwdsp01,,Windows,In Use,172.28.4.34,Windows Server 2012 R2 Standard R2,us.maritz.net
+maudrwebcsip01,,Windows,In Use,192.168.194.69,Windows 2008 R2,mneti.local
+maudrwebmcp02,,Windows,In Use,192.168.194.73,Windows 2003,mneti.local
+maudrwebmcp03,,Windows,In Use,192.168.194.74,Windows 2003,mneti.local
+maudrwebmcp04,,Windows,In Use,192.168.194.54,Windows 2003,mneti.local
+maudrwebmcp05,,Windows,In Use,192.168.194.94,Windows 2008 R2,mneti.local
+maudrwebmcp06,,Windows,In Use,192.168.194.93,Windows 2008 R2,mneti.local
+maudrwebmcp07,,Windows,In Use,192.168.194.53,Windows 2008 R2,mneti.local
+maudrwebmcp08,,Windows,In Use,192.168.193.32,Windows 2008 R2,WORKGROUP
+maudrwebmgp01,,Windows,In Use,172.28.4.37,Windows 2003,us.maritz.net
+maudrwebmgp02,,Windows,Decommissioned,,Windows 2003,WORKGROUP
+maudrwebmgp03,,Windows,In Use,172.28.4.54,Windows 2008 R2,us.maritz.net
+MAUDRWEBMGT01,,Windows,In Use,10.30.12.21,,
+maudrwebmlmp01,,Windows,In Use,192.168.194.41,Windows 2003,mneti.local
+maudrwebmlmp02,,Windows,In Use,192.168.194.45,Windows 2003,mneti.local
+maudrwebmlmp03,,Windows,In Use,192.168.194.49,Windows 2003,mneti.local
+maudrwebmlmp08,,Windows,De-Installed,192.168.194.61,,
+maudrwebmlmp09,,Windows,De-Installed,192.168.194.70,,
+maudrwebmlmp10,,Windows,De-Installed,192.168.194.55,,
+maudrwebmlmp11,,Windows,Decommissioned,,Windows 2003,WORKGROUP
+maudrwebmmp01,,Windows,In Use,192.168.194.55,Windows 2003,mneti.local
+maudrwebmmp02,,Windows,In Use,192.168.194.91,Windows 2003,mneti.local
+maudrwebmmp04,,Windows,In Use,192.168.194.68,Windows 2003,mneti.local
+MAUDRWEBMMP06,,Windows,Build/Rebuild,192.168.194.27,,
+MAUDRWEBMMP07,,,Build/Rebuild,192.168.194.29,,
+maudrwebmmp08,,Windows,In Use,192.168.194.36,Windows Server 2012 R2 Standard R2,mneti.local
+maudrwebmmp09,,Windows,In Use,192.168.193.33,,
+maudrwins01,,Windows,In Use,172.28.4.44,Windows 2003,us.maritz.net
+maudrxenappp01,,Windows,In Use,172.28.6.57,Windows 2008 R2,us.maritz.net
+maudrxenappp02,,Windows,In Use,172.28.6.58,Windows 2008 R2,us.maritz.net
+mausqlvcp03,,Windows,In Use,172.28.5.101,Windows Server 2012 R2 Standard R2,us.maritz.net
+MAUTMPLSQL2K8S,,Windows,Build/Rebuild,DHCP,,
+mautsvr01,us.maritz.net,Windows,In Use,10.30.14.85,Windows 2003,us.maritz.net
+mautsvr02,,Windows,In Use,10.30.14.104,Windows 2003,us.maritz.net
+mautsvr03,,Windows,In Use,10.30.14.105,Windows 2003,us.maritz.net
+mautsvr04,,Windows,In Use,10.30.14.89,Windows 2003,us.maritz.net
+mautsvr05,,Windows,In Use,10.30.14.78,Windows 2003,us.maritz.net
+mautsvr08,,Windows,In Use,10.30.14.74,Windows 2003,us.maritz.net
+mautsvr09,,Windows,In Use,10.30.14.75,Windows 2003,us.maritz.net
+mautsvr100,,Windows,In Use,10.30.14.77,Windows 2003 R2,us.maritz.net
+mautsvr101,,Windows,In Use,10.30.14.35,Windows 2003 R2,us.maritz.net
+mautsvr11,,Windows,In Use,10.30.14.79,Windows 2003,us.maritz.net
+mautsvr12,,Windows,In Use,10.30.14.14,Windows 2003,us.maritz.net
+mautsvr20,,Windows,In Use,10.30.14.26,Windows 2003 R2,us.maritz.net
+MAUTSXENP01,,XenServer,In Use,172.28.5.42,,
+MAUTSXENP02,,XenServer,In Use,172.28.5.41,,
+MAUTSXENP03,,XenServer,In Use,172.28.5.43,,
+MAUTSXENP04,,XenServer,In Use,172.28.5.44,,
+mauxenappp053,,Windows,In Use,10.30.20.53,Windows 2008 R2,us.maritz.net
+mauxenappp054,,Windows,In Use,10.30.20.54,Windows 2008 R2,us.maritz.net
+mcmis-web01,,Windows,Decommissioned,10.150.4.33,,
+mcmisdhcp01,,Windows,Decommissioned,10.150.4.22,,
+mifenbkup01,,Windows,Decommissioned,156.45.55.198,,
+MMXL0290C9J ,,,To Be Deployed - AM,,,
+MNT002CAPPDIAL1,,Windows,Decommissioned,10.30.50.18,,
+mss001capp03,,Windows,In Use,10.150.4.30,Windows 2003,us.maritz.net
+mss001cbkup01,,Windows,In Use,10.150.4.14,Windows 2003,us.maritz.net
+mss001cclsr401,,Windows,Build/Rebuild,10.150.4.153,Windows Server 2012 Standard,us.maritz.net
+mss001cclsr402,,Windows,Build/Rebuild,10.150.4.154,Windows Server 2012 Standard,us.maritz.net
+mss001cclsr501,,Windows,In Use,10.150.4.159,Windows 2008 R2,us.maritz.net
+mss001cclsr502,,Windows,In Use,10.150.4.160,Windows 2008 R2,us.maritz.net
+mss001cclsr601,,Windows,Build/Rebuild,10.150.4.194,Windows 2008 R2,us.maritz.net
+mss001cclstr01,,Windows,In Use,10.150.4.177,Windows 2003,us.maritz.net
+mss001cdcus04,,Windows,In Use,10.150.4.5,Windows 2008 R2,us.maritz.net
+mss001chad01,,Windows,In Use,10.150.4.115,Windows 2003,us.maritz.net
+mss001chad02,,Windows,In Use,10.150.4.116,Windows 2003,us.maritz.net
+mss001chaq01,,Windows,In Use,10.150.4.105,Windows 2003,us.maritz.net
+mss001chaq02,,Windows,In Use,10.150.4.106,Windows 2003,us.maritz.net
+mss001cmagc01,,Windows,In Use,10.150.4.32,Windows 2003,us.maritz.net
+mss001coffc06,,Windows,In Use,10.150.4.249,,
+mss001coffc07,,Windows,In Use,10.150.4.250,,
+mss001cris01,,Windows,In Use,10.150.4.9,Windows 2003,us.maritz.net
+mss001csccmp01,,Windows,In Use,10.150.4.10,Windows 2008 R2,us.maritz.net
+mss001csps01,,Windows,In Use,10.150.4.17,Windows 2003,us.maritz.net
+mss001csqld01,,Windows,In Use,10.150.4.118,,
+mss001csqld02,,Windows,In Use,10.150.4.119,,
+mss001csqld03,,Windows,In Use,10.150.4.26,Windows 2003,us.maritz.net
+mss001csqld04,,Windows,In Use,10.150.4.25,Windows 2003,us.maritz.net
+mss001csqld05,,Windows,In Use,10.150.4.151,Windows 2008 R2,us.maritz.net
+mss001csqld06,,Windows,Decommissioned,10.150.4.120,Windows 2003,us.maritz.net
+mss001csqld07,,Windows,Build/Rebuild,10.150.4.169,,
+mss001csqld09,,Windows,In Use,10.150.4.72,Windows Server 2012 Standard,us.maritz.net
+mss001csqld10,,Windows,Build/Rebuild,10.150.4.73,Windows Server 2012 Standard,us.maritz.net
+mss001csqld12,,Windows,Build/Rebuild,10.150.4.134,Windows Server 2012 Standard,us.maritz.net
+mss001csqld501,,Windows,In Use,10.150.4.162,,
+MSS001CSQLDEV01,,Windows,In Use,10.150.4.182,,
+MSS001CSQLDEV02,,Windows,In Use,10.150.4.183,,
+mss001csqlmgp01,,Windows,In Use,10.150.4.44,Windows 2008 R2,us.maritz.net
+mss001csqlp02,,Windows,In Use,10.150.4.126,Windows 2003,us.maritz.net
+mss001csqlp03,,Windows,In Use,10.150.4.130,Windows 2003,us.maritz.net
+mss001csqlp04,,Windows,In Use,10.150.4.172,Windows 2003,us.maritz.net
+mss001csqlp05,,Windows,Build/Rebuild,10.150.4.189,Windows 2008 R2,us.maritz.net
+mss001csqlp06,,Windows,In Use,10.150.4.197,,
+mss001csqlp08,,Windows,In Use,10.150.4.178,Windows 2008 R2,us.maritz.net
+mss001csqlp09,,Windows,Build/Rebuild,10.150.4.185,Windows Server 2012 Standard,us.maritz.net
+mss001csqlp10,,Windows,Waiting for Verification,10.150.4.104,Windows Server 2012 Standard,us.maritz.net
+mss001csqlp11,,Windows,Waiting for Verification,10.150.4.144,Windows Server 2012 Standard,us.maritz.net
+mss001csqlp401,,Windows,Build/Rebuild,10.150.4.156,,
+mss001csqlp402,,Windows,Build/Rebuild,10.150.4.157,,
+MSS001CSQLP602,,Windows,In Use,10.150.4.203,,
+MSS001CSQLQ01,,Windows,In Use,10.150.4.110,,
+MSS001CSQLQ02,,Windows,In Use,10.150.4.111,,
+mss001csqlq502,,Windows,In Use,10.150.4.163,,
+mss001csqlsps01,,Windows,In Use,10.150.4.173,Windows 2003,us.maritz.net
+mss001csqlt01,,Windows,Build/Rebuild,10.150.4.165,Windows 2008 R2,us.maritz.net
+mss001csqlt04,,Windows,In Use,10.150.4.198,Windows 2008 R2,us.maritz.net
+mss001cstrg01,,Windows,In Use,10.150.4.39,Windows 2003,us.maritz.net
+MSS001CVM01,,Windows,In Use,,,
+mss001cwad01,,Windows,In Use,10.150.4.152,Windows 2008 R2,us.maritz.net
+mss001cwad02,,Windows,In Use,10.150.4.128,Windows 2003,us.maritz.net
+mss001cwad03,,Windows,In Use,10.150.4.192,Windows 2008 R2,us.maritz.net
+mss001cwad04,,Windows,Build/Rebuild,10.150.4.193,Windows 2008 R2,us.maritz.net
+mss001cwad05,,Windows,Build/Rebuild,10.150.4.166,Windows 2008 R2,us.maritz.net
+mss001cwad06,,Windows,De-Installed,10.150.4.67,,
+mss001cwad07,,Windows,Build/Rebuild,10.150.4.68,Windows 2008 R2,us.maritz.net
+mss001cwad08,,Windows,Build/Rebuild,10.150.4.69,Windows 2008 R2,us.maritz.net
+mss001cwad09,,Windows,In Use,10.150.4.81,Windows 2003,us.maritz.net
+mss001cwad10,,Windows,In Use,10.150.4.71,Windows Server 2012 Standard,us.maritz.net
+mss001cwad11,,Windows,In Use,10.150.4.21,Windows Server 2012 Standard,us.maritz.net
+mss001cwad12,,Windows,Build/Rebuild,10.150.4.205,Windows 2008 R2,us.maritz.net
+mss001cwad14,,Windows,Build/Rebuild,10.150.4.28,Windows Server 2012 Standard,us.maritz.net
+mss001cwap01,,Windows,In Use,10.150.4.127,Windows 2003,us.maritz.net
+mss001cwap02,,Windows,In Use,10.150.4.142,Windows 2003,us.maritz.net
+mss001cwap03,maritz.com,Windows,In Use,10.150.4.184,Windows Server 2012 Standard,us.maritz.net
+mss001cwap04,,Windows,In Use,10.150.4.186,Windows Server 2012 Standard,us.maritz.net
+mss001cwap05,,Windows,Waiting for Verification,,Windows Server 2012 Standard,us.maritz.net
+mss001cwap06,,Windows,In Use,10.150.4.147,Windows 2008 R2,us.maritz.net
+mss001cwap07,,Windows,In Use,10.150.4.123,Windows Server 2012 Standard,us.maritz.net
+mss001cwap08,,Windows,Decommissioned,10.150.4.150,Windows 2008 R2,us.maritz.net
+mss001cwap09,,Windows,Build/Rebuild,10.150.4.164,Windows 2008 R2,us.maritz.net
+mss001cwap10,,Windows,In Use,10.150.4.168,Windows 2008 R2,us.maritz.net
+mss001cwap11,,Windows,Build/Rebuild,10.150.4.64,Windows 2008 R2,us.maritz.net
+mss001cwap12,,Windows,In Use,10.150.201.22,,
+mss001cwap13,,Windows,Build/Rebuild,10.150.4.42,Windows 2008 R2,us.maritz.net
+mss001cwap15,,Windows,Build/Rebuild,10.150.4.131,Windows Server 2012 Standard,us.maritz.net
+mss001cwap16,,Windows,Installed,10.150.4.16,Windows 2008 R2,us.maritz.net
+mss001cwaq01,,Windows,In Use,10.150.4.129,Windows 2003,us.maritz.net
+mss001cwas01,,Windows,Build/Rebuild,10.150.4.80,Windows 2008 R2,us.maritz.net
+mss001cwas02,,Windows,In Use,10.150.4.22,Windows Server 2012 Standard,us.maritz.net
+mss001cwat02,,Windows,Build/Rebuild,10.150.4.88,Windows 2008 R2,us.maritz.net
+mss001cwdsp01,,Windows,In Use,10.150.4.253,,
+mss001cwebd02,,Windows,In Use,10.150.4.95,Windows 2003,us.maritz.net
+mss001cwebd03,,Windows,Decommissioned,,Windows 2003,us.maritz.net
+mss001cwebd05,,Windows,In Use,10.150.4.70,Windows Server 2012 Standard,us.maritz.net
+mss001cwebd06,,Windows,In Use,10.150.4.20,Windows Server 2012 Standard,us.maritz.net
+mss001cwebd07,,Windows,Build/Rebuild,10.150.4.30,Windows Server 2012 Standard,us.maritz.net
+mss001cwebd08,,Windows,Waiting for Verification,10.150.4.36,Windows Server 2012 Standard,us.maritz.net
+mss001cwebp02,,Windows,In Use,10.150.4.148,Windows 2008 R2,us.maritz.net
+mss001cwebp03,,Windows,In Use,10.150.4.158,Windows 2003,us.maritz.net
+mss001cwebp04,,Windows,De-Installed,10.150.4.167,Windows 2008 R2,us.maritz.net
+mss001cwebp05,,Windows,Build/Rebuild,10.150.4.167,Windows 2008 R2,us.maritz.net
+mss001cwebp06,maritz.com,,Build/Rebuild,10.150.4.47,,
+mss001cwebprd01,,Windows,In Use,10.150.4.102,Windows 2003,us.maritz.net
+mss001cwebq02,,Windows,In Use,10.150.4.138,Windows 2003,us.maritz.net
+mss001cwebqa01,,Windows,In Use,10.150.4.55,,
+mss001cwebs01,,Windows,In Use,10.150.4.19,Windows Server 2012 Standard,us.maritz.net
+mss001cwebt04,,Windows,In Use,10.150.4.199,Windows 2008 R2,us.maritz.net
+mss001cwssd01,,Windows,In Use,10.150.4.141,Windows 2003,us.maritz.net
+mss001wad03,,Windows,Build/Rebuild,10.150.4.192,,
+mss001xapp01,maritz.com,Windows,In Use,10.150.4.35,Windows 2003,us.maritz.net
+mss001xnote01,,Windows,In Use,10.150.4.125,Windows 2000,US
+MSS001XSQLPRD11,,Windows,In Use,10.150.4.77,,
+MSS001XSQLPRD12,,Windows,In Use,10.150.4.78,,
+mss001xwebdev02,,Windows,In Use,10.150.4.63,Windows 2003,us.maritz.net
+ns1,,Windows,In Use,156.45.50.14,Windows 2008 R2,WORKGROUP
+ns2,,Windows,In Use,156.45.50.140,Windows 2008 R2,WORKGROUP
+ns3,,Windows,In Use,172.28.4.14,,
+ovr002offc04,,Windows,In Use,10.30.22.15,Windows 2008 R2,us.maritz.net
+phl003offc04,,Windows,In Use,10.20.4.15,Windows 2008 R2,us.maritz.net
+phl003ris01,,Windows,In Use,10.20.4.13,Windows 2003,us.maritz.net
+sas001cappdial1,,Appliance,De-Installed,10.30.51.9,,
+sfd001bkup01,,Windows,In Use,10.10.2.9,Windows 2008 R2,us.maritz.net
+sfd001offc04,,Windows,In Use,10.10.2.26,Windows Server 2012 R2 Standard R2,us.maritz.net
+sfd001ris01,,Windows,In Use,10.10.2.27,Windows 2003,us.maritz.net
+TN-UCMDB,,Windows,To Be Re-deployed - AM,,,
+tor002offc03,,Windows,In Use,10.10.22.13,Windows 2008 R2,us.maritz.net
+wal002offc04,,Windows,In Use,10.20.3.19,Windows 2008 R2,us.maritz.net
+xeu006app01,,Windows,Decommissioned,10.151.1.31,Windows 2003,us.maritz.net
+xeu006appmrd01,,Windows,In Use,10.151.1.20,Windows 2008 R2,us.maritz.net
+xeu006appmrp01,,Windows,In Use,10.151.1.14,Windows 2008 R2,us.maritz.net
+xeu006appmrp02,,Windows,In Use,10.151.1.15,Windows 2008 R2,us.maritz.net
+xeu006apsccmp01,,Windows,In Use,10.151.1.18,Windows 2008 R2,us.maritz.net
+xeu006bkup01,,Windows,In Use,10.151.1.13,Windows 2008 R2,us.maritz.net
+XEU006BLDENC01,,Windows,In Use,10.151.1.100,,
+xeu006dcus02,,Windows,In Use,10.151.1.24,Windows 2008 R2,us.maritz.net
+xeu006offc04,,Windows,In Use,10.151.1.19,Windows 2008 R2,us.maritz.net
+xeu006pold01,,Windows,In Use,10.151.1.27,Windows Server 2012 R2 Standard R2,us.maritz.net
+xeu006polp01,,Windows,Build/Rebuild,10.151.1.29,Windows Server 2012 R2 Standard R2,us.maritz.net
+xeu006ris01,,Windows,In Use,10.151.1.12,Windows 2003,us.maritz.net
+xeu006sqlmrd01,,Windows,In Use,10.151.1.21,Windows 2008 R2,us.maritz.net
+xeu006sqlmrd02,,Windows,In Use,10.151.1.16,Windows 2008 R2,us.maritz.net
+xeu006sqlmrd03,,Windows,In Use,10.151.1.25,Windows 2008 R2,us.maritz.net
+xeu006sqlmrp01,,Windows,In Use,10.151.1.32,Windows 2008 R2,us.maritz.net
+xeu006sqlmrp02,,Windows,In Use,10.151.1.17,Windows 2008 R2,us.maritz.net
+xeu006webmrd01,,Windows,In Use,10.151.1.98,Windows 2008 R2,us.maritz.net
+xeu006xenappp01,,Windows,In Use,10.151.1.26,Windows 2008 R2,us.maritz.net
+xeu008appdial01,,Windows,De-Installed,,Windows 2000,US
+xeu008appdial02,maritz.com,Windows,In Use,10.151.4.19,Windows 2003 R2,us.maritz.net
+xeu008offc01,,Windows,In Use,10.151.4.11,Windows 2008 R2,us.maritz.net
